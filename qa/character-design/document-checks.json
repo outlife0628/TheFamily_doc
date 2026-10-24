@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-23T09:11:26.134Z",
+  "scope": "Document fixture arithmetic, links and preservation only; no game or browser test",
+  "checks": [
+    {
+      "name": "review-only JSON fixture",
+      "passed": true
+    },
+    {
+      "name": "curve complete, unique and increasing",
+      "passed": true
+    },
+    {
+      "name": "six primary stat vectors cover every fixture level",
+      "passed": true
+    },
+    {
+      "name": "four profile rows agree with displayed HP and SP",
+      "passed": true
+    },
+    {
+      "name": "skill identifiers, rank and fixture references",
+      "passed": true
+    },
+    {
+      "name": "multi-level XP arithmetic and intermediate unlocks",
+      "passed": true
+    },
+    {
+      "name": "level-up resource maxima and no automatic healing",
+      "passed": true
+    },
+    {
+      "name": "resource cost boundary arithmetic",
+      "passed": true
+    },
+    {
+      "name": "XP cap and overflow arithmetic",
+      "passed": true
+    },
+    {
+      "name": "maximum change and zero-HP examples",
+      "passed": true
+    },
+    {
+      "name": "flat plus basis-point rounding example",
+      "passed": true
+    },
+    {
+      "name": "XP example generator agrees with table",
+      "passed": true
+    },
+    {
+      "name": "higher-level initial spawn example",
+      "passed": true
+    },
+    {
+      "name": "same-batch chained unlock example independent of lexical order",
+      "passed": true
+    },
+    {
+      "name": "active documentation links resolve",
+      "passed": true
+    },
+    {
+      "name": "only the three requested preparation documents changed and originals archived",
+      "passed": true
+    },
+    {
+      "name": "all approved movement snapshot files preserved",
+      "passed": true
+    }
+  ],
+  "brokenLinks": [],
+  "preservation": {
+    "previousFiles": 181,
+    "unchanged": 178,
+    "requestedDocumentsChanged": 3,
+    "archivedOriginalsMatch": 3
+  },
+  "localLinksChecked": 40,
+  "approvedMovementFilesUnchanged": 33,
+  "runtimeTestsExecuted": 0,
+  "passed": true
+}

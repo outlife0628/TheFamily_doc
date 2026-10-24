@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-22T09:19:17.518Z",
+  "base": "http://127.0.0.1:8080",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "successes": [],
+  "failures": [
+    {
+      "name": "browser setup or flow",
+      "error": "Error: CDP timeout: Page.enable\n    at Timeout._onTimeout (file:///D:/BG/TheFamily_doc/qa/movement/browser-check.mjs:25:62)\n    at listOnTimeout (node:internal/timers:685:17)\n    at process.processTimers (node:internal/timers:618:7)"
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "diagnostics": [
+    {
+      "send": "Target.createTarget",
+      "id": 1,
+      "session": null
+    },
+    {
+      "receive": "response",
+      "id": 1
+    },
+    {
+      "send": "Target.getTargets",
+      "id": 2,
+      "session": null
+    },
+    {
+      "receive": "response",
+      "id": 2
+    },
+    {
+      "targets": {
+        "targetInfos": [
+          {
+            "targetId": "21169A5670103015E78DAD0A22C0C873",
+            "type": "service_worker",
+            "title": "Service Worker chrome-extension://ndcpkimcihhghdcddljkfmmjccdmcmof/background.rollup.js",
+            "url": "chrome-extension://ndcpkimcihhghdcddljkfmmjccdmcmof/background.rollup.js",
+            "attached": false,
+            "canAccessOpener": false,
+            "browserContextId": "9E60F8EC5A0D1A379241B495A3E72B51",
+            "pid": 0
+          },
+          {
+            "targetId": "10112C2F933F373A5B814063239C299D",
+            "type": "page",
+            "title": "",
+            "url": "about:blank",
+            "attached": false,
+            "canAccessOpener": false,
+            "browserContextId": "9E60F8EC5A0D1A379241B495A3E72B51",
+            "pid": 0
+          },
+          {
+            "targetId": "29501B08487D3CA163A6C10C87D27323",
+            "type": "page",
+            "title": "",
+            "url": "about:blank",
+            "attached": false,
+            "canAccessOpener": false,
+            "browserContextId": "9E60F8EC5A0D1A379241B495A3E72B51",
+            "pid": 0
+          }
+        ]
+      }
+    },
+    {
+      "send": "SystemInfo.getProcessInfo",
+      "id": 3,
+      "session": null
+    },
+    {
+      "receive": "response",
+      "id": 3
+    },
+    {
+      "processes": {
+        "processInfo": [
+          {
+            "type": "browser",
+            "id": 279000,
+            "cpuTime": 0.980271
+          },
+          {
+            "type": "network.mojom.NetworkService",
+            "id": 279728,
+            "cpuTime": 0.163951
+          }
+        ]
+      }
+    },
+    {
+      "send": "Target.attachToTarget",
+      "id": 4,
+      "session": null
+    },
+    {
+      "receive": "Target.attachedToTarget"
+    },
+    {
+      "receive": "response",
+      "id": 4
+    },
+    {
+      "send": "Page.enable",
+      "id": 5,
+      "session": "2B1200198D5F1A73E8007EB24E87A92F"
+    }
+  ],
+  "chromeLog": "[279000:278716:1022/181859.928:ERROR:components\\os_crypt\\async\\browser\\os_crypt_win.cc:63] Failed to encrypt: 지정된 파일을 찾을 수 없습니다. (0x2)\r\n[279000:279628:1022/181859.953:ERROR:chrome\\installer\\util\\google_update_settings_win.cc:544] Failed opening key Software\\Microsoft\\EdgeUpdate\\ClientStateMedium\\{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062} to set usagestats; result: 5\r\n[279000:279628:1022/181859.954:ERROR:chrome\\installer\\util\\google_update_settings_win.cc:587] Failed opening key Software\\Microsoft\\EdgeUpdate\\ClientStateMedium\\{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062} to set urlstats; result: 5\r\n[279000:278716:1022/181859.991:WARNING:chrome\\installer\\util\\install_util.cc:532] GetProfileType failed; assuming non-temporary non-mandatory profile.: 지정된 파일을 찾을 수 없습니다. (0x2)\r\n[279000:280996:1022/181905.254:ERROR:components\\password_manager\\core\\browser\\password_store\\login_database_async_helper.cc:230] Encryption is not available.\r\n[279000:280992:1022/181905.262:ERROR:components\\password_manager\\core\\browser\\password_store\\login_database_async_helper.cc:230] Encryption is not available.\r\n\r\nDevTools listening on ws://127.0.0.1:60927/devtools/browser/fbf98928-7df5-4277-8dfe-bb290aded94d\r\n[279000:279652:1022/181905.387:ERROR:chrome\\installer\\util\\google_update_settings_win.cc:544] Failed opening key Software\\Microsoft\\EdgeUpdate\\ClientStateMedium\\{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062} to set usagestats; result: 5\r\n[279000:278716:1022/181905.387:ERROR:chrome\\browser\\ui\\edge_window_tab_manager\\api\\wtm_interface_impl.cc:463] Failed to open registry key\r\n[279000:278716:1022/181905.435:WARNING:chrome\\browser\\extensions\\external_registry_loader_win.cc:283] Error observing HKLM: 5\r\n[279000:278716:1022/181905.435:WARNING:chrome\\browser\\extensions\\external_registry_loader_win.cc:294] Error observing HKCU: 액세스가 거부되었습니다. (0x5)\r\n[279000:279620:1022/181905.493:ERROR:services\\device\\public\\cpp\\geolocation\\system_geolocation_source_win.cc:124] Failed to create IAppCapability: 액세스가 거부되었습니다. (0x80070005)\r\n[279000:281428:1022/181905.609:ERROR:chrome\\browser\\edge_aadc\\user_age_utils_win.cc:163] couldn't get user2.\r\n[279000:281428:1022/181905.609:ERROR:chrome\\browser\\edge_aadc\\user_age_utils_win.cc:310] couldn't get windows user age group.\r\n[279000:281428:1022/181905.609:ERROR:chrome\\browser\\edge_aadc\\user_age_utils_win.cc:156] callback wasn't called.\r\n[279000:278716:1022/181911.589:ERROR:chrome\\browser\\component_updater\\edge_optimization_guide_models_manifest_installer.cc:264] Edge LLM: catalog update failed: 5\r\n[279000:278716:1022/181911.591:ERROR:chrome\\browser\\component_updater\\edge_language_detection_model_installer.cc:97] Edge Language Detection Model: On-demand update failed with error: 5\r\n"
+}

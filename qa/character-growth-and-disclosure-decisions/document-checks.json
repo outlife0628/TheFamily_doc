@@ -1,0 +1,100 @@
+{
+  "kind": "Document and synthetic-fixture checks only",
+  "passed": 19,
+  "total": 19,
+  "checks": [
+    {
+      "check": "Shared major XP table with individual stat growth documented",
+      "passed": true
+    },
+    {
+      "check": "Formal profiles sharing one curve validated",
+      "passed": true
+    },
+    {
+      "check": "Automatic table-based skill ranks approved",
+      "passed": true
+    },
+    {
+      "check": "Unlearned visibility and owned visibility separated",
+      "passed": true
+    },
+    {
+      "check": "Disclosure does not block learning",
+      "passed": true
+    },
+    {
+      "check": "XP fixture scope and review-only boundary explicit",
+      "passed": true
+    },
+    {
+      "check": "Level/event rank fixture arithmetic and no downgrade",
+      "passed": true
+    },
+    {
+      "check": "All4visibility fixture cases consistent",
+      "passed": true
+    },
+    {
+      "check": "Initial skills remain explicit without catchup",
+      "passed": true
+    },
+    {
+      "check": "Existing XP multilevel fixture preserved",
+      "passed": true
+    },
+    {
+      "check": "XP retains awards at cap",
+      "passed": true
+    },
+    {
+      "check": "Initial HP/SP remains pending",
+      "passed": true
+    },
+    {
+      "check": "Nullable schema markers preserved",
+      "passed": true
+    },
+    {
+      "check": "Current-document links resolve",
+      "passed": true
+    },
+    {
+      "check": "No stray CJK/Japanese or unfinished markers",
+      "passed": true
+    },
+    {
+      "check": "All33approved movement files unchanged",
+      "passed": true
+    },
+    {
+      "check": "6scoped edits and exact archived originals",
+      "passed": true
+    },
+    {
+      "check": "Asset-management annex remains unchanged",
+      "passed": true
+    },
+    {
+      "check": "Approval records exact Korean replies",
+      "passed": true
+    }
+  ],
+  "links_checked": 64,
+  "baseline_files": 255,
+  "unchanged_existing_files": 249,
+  "modified_existing_files": [
+    "NEXT_STAGE.md",
+    "docs/character/03_Character_System_UI.md",
+    "docs/character/Character_Data_Tables.md",
+    "docs/character/Character_Review_Request.md",
+    "docs/next-stage/CURRENT_STATE.md",
+    "docs/next-stage/SYS03_Preparation.md"
+  ],
+  "byte_identical_archives": 6,
+  "approved_movement_files_unchanged": 33,
+  "runtime_tests_executed": 0,
+  "browser_tests_executed": 0,
+  "engine_tests_executed": 0,
+  "screenshots": 0
+}

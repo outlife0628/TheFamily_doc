@@ -1,0 +1,65 @@
+{
+  "base": "http://127.0.0.1:8080",
+  "resources": [
+    {
+      "path": "/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 643
+    },
+    {
+      "path": "/styles.css",
+      "status": 200,
+      "type": "text/css",
+      "bytes": 16973
+    },
+    {
+      "path": "/app.js",
+      "status": 200,
+      "type": "application/javascript",
+      "bytes": 30482
+    },
+    {
+      "path": "/components.js",
+      "status": 200,
+      "type": "application/javascript",
+      "bytes": 4372
+    },
+    {
+      "path": "/field.js",
+      "status": 200,
+      "type": "application/javascript",
+      "bytes": 12605
+    },
+    {
+      "path": "/model.mjs",
+      "status": 200,
+      "type": "application/javascript",
+      "bytes": 5076
+    },
+    {
+      "path": "/commands.mjs",
+      "status": 200,
+      "type": "application/javascript",
+      "bytes": 497
+    },
+    {
+      "path": "/spatial.mjs",
+      "status": 200,
+      "type": "application/javascript",
+      "bytes": 987
+    },
+    {
+      "path": "/data/review_data.json",
+      "status": 200,
+      "type": "application/json",
+      "bytes": 3718
+    },
+    {
+      "path": "/assets/world_map_source.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 4057267
+    }
+  ]
+}

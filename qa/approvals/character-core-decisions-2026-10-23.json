@@ -1,0 +1,59 @@
+﻿{
+    "recorded_at":  "2026-10-23T20:02:18+09:00",
+    "approved_growth_choice":  "A",
+    "basic_stats":  [
+                        "vitality",
+                        "strength",
+                        "dexterity",
+                        "intellect",
+                        "willpower",
+                        "agility"
+                    ],
+    "basic_stat_scope":  "Types and roles approved; calculation coefficients and balance values remain provisional",
+    "combat_character_resources":  [
+                                       "hp",
+                                       "sp"
+                                   ],
+    "battle_end_recovery":  "keep_remaining",
+    "actual_level_up_recovery":  "fill_hp_and_sp_to_final_new_maxima",
+    "knockout":  {
+                     "hp":  0,
+                     "battle_victory_xp_eligible":  false,
+                     "level_up_while_knocked_out":  false,
+                     "activity_allowed_before_revival":  false,
+                     "revival_sources":  [
+                                             "revival_item",
+                                             "revival_facility"
+                                         ],
+                     "unclaimed_victory_xp_is_not_deferred":  true
+                 },
+    "user_replies":  [
+                         {
+                             "topic":  "six_basic_stats",
+                             "reply":  "승인"
+                         },
+                         {
+                             "topic":  "hp_plus_sp",
+                             "reply":  "승인"
+                         },
+                         {
+                             "topic":  "carry_after_battle",
+                             "reply":  "유지하는 방향으로"
+                         },
+                         {
+                             "topic":  "level_up",
+                             "reply":  "레벨업 시에는 hp/sp 모두 회복"
+                         },
+                         {
+                             "topic":  "knockout",
+                             "reply":  "전투불능인 상태의 인물은 전투승리시 xp 획득 불가, 즉 hp0인 인물이 레벨업을 할 상황은 발생하지 않음, 부활 아이템을 사용하거나, 부활이 가능한 장소에서 부활 이후에 활동 가능."
+                         }
+                     ],
+    "remaining_decisions":  [
+                                "XP award amount and distribution/excluded shares",
+                                "Reserve and other-party XP eligibility",
+                                "Level caps, curves and balance coefficients",
+                                "Revival HP/SP amounts, facility prices and time",
+                                "Asset-table and remaining implementation contracts"
+                            ]
+}

@@ -1,0 +1,119 @@
+{
+  "approval": "User approved assets and HTML work on 2026-10-23",
+  "rasterPixelsChanged": false,
+  "compassVariant": "B, thin line",
+  "skins": [
+    {
+      "name": "button-gold",
+      "source": "assets/ui/01-button-primary-gold.png",
+      "display": "assets/skins/button-gold.svg",
+      "width": 2172,
+      "height": 724,
+      "viewport": [
+        94,
+        194,
+        1983,
+        315
+      ],
+      "sha256": "042834010f4694db20d1b7ac71ec2d86df8470e4f8e5f10fdb73ef57511ff6a7"
+    },
+    {
+      "name": "button-charcoal",
+      "source": "assets/ui/02-button-secondary-charcoal.png",
+      "display": "assets/skins/button-charcoal.svg",
+      "width": 2172,
+      "height": 724,
+      "viewport": [
+        94,
+        189,
+        1984,
+        321
+      ],
+      "sha256": "9d6643bc018f3be7d353aa79210b5c135a69494c19f483beb700e4207bc47c02"
+    },
+    {
+      "name": "parchment",
+      "source": "assets/ui/03-panel-parchment.png",
+      "display": "assets/skins/parchment.svg",
+      "width": 1086,
+      "height": 1448,
+      "viewport": [
+        67,
+        89,
+        952,
+        1269
+      ],
+      "sha256": "411c66db08ff7ae6a375a6b59b2f335cb2d7d168a2e0bf90350142b4a189e41c"
+    },
+    {
+      "name": "dialog",
+      "source": "assets/ui/04-dialog-shell.png",
+      "display": "assets/skins/dialog.svg",
+      "width": 1683,
+      "height": 935,
+      "viewport": [
+        53,
+        70,
+        1577,
+        792
+      ],
+      "sha256": "b926483a5189d55322fa48afb145373cc42b557c3eeab763cdb0ab8934d060e5"
+    },
+    {
+      "name": "dark",
+      "source": "assets/ui/05-panel-dark.png",
+      "display": "assets/skins/dark.svg",
+      "width": 1860,
+      "height": 846,
+      "viewport": [
+        60,
+        118,
+        1740,
+        591
+      ],
+      "sha256": "d762c20ff5b11c05ef73746a830b9e26c9e8e54f10b686d0fc47fd75511f052d"
+    },
+    {
+      "name": "minimap",
+      "source": "assets/ui/06-minimap-frame.png",
+      "display": "assets/skins/minimap.svg",
+      "width": 1254,
+      "height": 1254,
+      "viewport": [
+        71,
+        60,
+        1113,
+        1103
+      ],
+      "sha256": "b5554f8c0575689ab9945832224ae6b651778ba8a31c5317334b95423fb06745"
+    },
+    {
+      "name": "objective",
+      "source": "assets/ui/07-objective-card.png",
+      "display": "assets/skins/objective.svg",
+      "width": 2022,
+      "height": 778,
+      "viewport": [
+        62,
+        186,
+        1898,
+        362
+      ],
+      "sha256": "aa9f4f850586b9ea196f12cad7ec736a56d4e5a7b4d5e6cfef73b5ea7953c8cc"
+    },
+    {
+      "name": "compass",
+      "source": "assets/ui/08-compass-line-v3.png",
+      "display": "assets/skins/compass.svg",
+      "width": 1254,
+      "height": 1254,
+      "viewport": [
+        162,
+        161,
+        928,
+        940
+      ],
+      "sha256": "0fbc59de19c6b427cb9da0c3c2cd12c5818229f12393051e03e93bf61e623467"
+    }
+  ]
+}

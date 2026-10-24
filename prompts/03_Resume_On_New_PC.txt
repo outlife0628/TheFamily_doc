@@ -1,0 +1,15 @@
+이 폴더의 The Family 프로젝트를 다른 PC에서 이어서 작업한다.
+먼저 읽기 전용 인수 점검만 진행해. 파일 생성/수정/덮어쓰기/삭제, 설치, Git 변경, 새 HTML/이미지/Godot 구현은 하지 마.
+
+1. 실제 프로젝트 루트와 상위/하위 AGENTS.md·AGENTS.override.md, Git 상태를 확인해. 다른 PC의 경로/앱 버전/실행 중 서버는 확인 전 단정하지 마.
+2. AGENTS.md의 필수 읽기 자료를 읽고, START_HERE_NEW_PC.md와 NEXT_STAGE.md, docs/next-stage/CURRENT_STATE.md를 읽어.
+3. 현재 검토본은 docs/character/03_Character_System_UI.md Ver0.9다. Character_Data_Tables.md, Character_Asset_Tables.md, Character_Review_Request.md와 qa/approvals/의 관련 기록을 함께 확인해.
+4. 초기 루트 README/CURRENT_STATE의 새 이동 HTML 미제작 표기와 AGENTS의 SYS-02 단계 표기는 후속 사용자 지시 전 상태다. 후속 지시로 승인 이동 HTML과 SYS-03 문서/정책 검토까지 진행했다. 현재 범위는 SYS-03 통합 설계 재검토이며, 기존 파일은 보존해.
+5. 개별 정책은 승인됐지만 SYS-03 통합 검토본 전체의 최종 사용자 승인이나 캐릭터 구현 착수 지시는 아직 없다. 최신 사용자는 변경 요약을 받은 뒤 PC 이전을 요청했다. 이전 요청을 구현 승인으로 간주하지 마.
+6. 승인된 성장/XP/HP-SP/기술/공개/에셋 정책을 다시 질문하지 말고 현행 문서를 적용해. 필요한 새 결정만 하나씩 질문해. 상한5의 축소 시험 데이터는 정식 상한100과 구분해.
+7. 승인 이동 실행본은 prototype/movement-assets-v2/index.html이다. 기존 prototype/movement 아트를 재활성화하지 마. Python 서버를 새로 실행하려면 프로젝트 루트에서 다음 명령을 사용해:
+   python -B -m http.server 8081 --bind 127.0.0.1 --directory prototype/movement-assets-v2
+   브라우저 주소는 http://127.0.0.1:8081/ 이다. 이번 읽기 전용 점검에서는 실행하지 않아도 된다.
+8. TRANSFER_MANIFEST.json이 있으면 python -B VERIFY_TRANSFER.py로 이전 파일 무결성을 확인할 수 있다. 기존 SOURCE_MANIFEST.json은 최초 자료 목록으로 구분해.
+9. 실제 수행한 검사만 통과로 보고해. 이전 기록과 이번 실행, 문서 검사와 브라우저/엔진 검수를 분리해. 실제 캡처0장·Godot/Hera/Map Tool 미검증 상태를 유지해.
+10. 한국어로 실제 경로·현재 단계·필수 파일 확인 결과·문서 충돌·미검증 항목·다음 검토 범위를 짧게 보고하고 내 검토를 기다려. 전체 게임이나 다음 시스템으로 확대하지 마.

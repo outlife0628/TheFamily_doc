@@ -1,0 +1,205 @@
+﻿{
+    "date":  "2026-10-23",
+    "userInstruction":  "작업 내용 승인, 다음 단계 작업 준비해줘",
+    "artifact":  "prototype/movement-assets-v2/index.html",
+    "approval":  "user_approved_movement_html_work",
+    "nextStage":  "SYS-03 character system and UI preparation only",
+    "scope":  [
+                  "Approved raster UI assets applied to the HTML movement mockup",
+                  "Field HUD, destination selection, departure confirmation, journey, stop, resume and arrival",
+                  "Shared native HTML controls, 1920x1080, one 100 percent typography profile"
+              ],
+    "doesNotCertify":  [
+                           "Automated browser acceptance tests",
+                           "Recorded screenshots",
+                           "Godot/Hera/Map Tool integration",
+                           "Final trial geography, fares, travel durations or character growth formulas"
+                       ],
+    "priorExecutedEvidence":  {
+                                  "unitTests":  {
+                                                    "passed":  23,
+                                                    "total":  23,
+                                                    "record":  "qa/movement-assets-v2/model-results.txt"
+                                                },
+                                  "syntaxFiles":  {
+                                                      "passed":  12,
+                                                      "total":  12,
+                                                      "record":  "qa/movement-assets-v2/syntax-results.json"
+                                                  },
+                                  "httpResources":  {
+                                                        "passed":  28,
+                                                        "total":  28,
+                                                        "record":  "qa/movement-assets-v2/resource-results.json"
+                                                    },
+                                  "actualScreenshots":  0,
+                                  "browserLaunch":  "Chrome window title verified and HTTP 200 confirmed in the preceding conversation turn"
+                              },
+    "approvedFileCount":  33,
+    "files":  [
+                  {
+                      "path":  "prototype/movement-assets-v2/app.js",
+                      "bytes":  31120,
+                      "sha256":  "a8f4b9f615693e7351e50e38db1af09322db6e30d9163138b8928993206c00f7"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/art-skin.css",
+                      "bytes":  10859,
+                      "sha256":  "fa3f044825bdfd053db86c1592be72dc2d39483c0b89e618b4e30b9d5a0b37fb"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/build-skins.mjs",
+                      "bytes":  2036,
+                      "sha256":  "c953b1ddd207cf4a84a44dd76945e79f4f4206673c11888ca177abc85fbdea10"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/commands.mjs",
+                      "bytes":  497,
+                      "sha256":  "596751f6773f9cbfe42546a0a2120c54860e7fef12160118dc75d3454f339cbf"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/components.js",
+                      "bytes":  5286,
+                      "sha256":  "a507bef134a35c8c012721833eeb30d37f81a0cc145ceeab6864f093ca1ad142"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/field.js",
+                      "bytes":  12605,
+                      "sha256":  "2af35320022ce07831c3ea741d783906a592f5547877981d8fcbdf0e146de803"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/index.html",
+                      "bytes":  703,
+                      "sha256":  "f08b3ea0dcb65d704c919b4fbd811c62d9c750562591352d631558446b655800"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/model.mjs",
+                      "bytes":  5076,
+                      "sha256":  "45e5993d9f565d0f6fcc0fedef213c9a225b25b553ef2e481e14a715ed5bde3b"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/README.md",
+                      "bytes":  4848,
+                      "sha256":  "859d1def59cd2f786d899e7c83d43453087e007d6f0ec0d05ea77e0d9d86a407"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/spatial.mjs",
+                      "bytes":  1233,
+                      "sha256":  "dc9534a1ed7b4ee1dc77c99178204754c394f640968e70d7874dd01b8f70a72e"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/styles.css",
+                      "bytes":  16973,
+                      "sha256":  "92a901f4867d39cb735ed92db979e12242c0415a59879ab6fdadda07805623f9"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/skin-manifest.json",
+                      "bytes":  2901,
+                      "sha256":  "86e40333ad1b130d9b39c0b1291c5f8327d97ef4dfc14c1a7a934c41e4526564"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/world_map_source.png",
+                      "bytes":  4057267,
+                      "sha256":  "eedb5a7c0a1f582ca7022ac687385194e9c46468db0cb49f4eefc5a9dd3ee296"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/skins/button-charcoal.svg",
+                      "bytes":  1390920,
+                      "sha256":  "23b0cdbb37eebf800485f66929635aa2119524a8ab789ecb813c797c53dee0eb"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/skins/button-gold.svg",
+                      "bytes":  1284472,
+                      "sha256":  "6c5f2ba5be53285ada6d91023f3cf14f0f2418358ec13328296bb25b12ada3ab"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/skins/compass.svg",
+                      "bytes":  420448,
+                      "sha256":  "3d444520748075cfeb32afa448bbb51007f2a3a0b4cbf326e57392634b5211ef"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/skins/dark.svg",
+                      "bytes":  2022252,
+                      "sha256":  "f486ea7dc3c4664130601a8e4fa2ea72fced65e3d2dcacf4e4f13fbaf59492eb"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/skins/dialog.svg",
+                      "bytes":  2671275,
+                      "sha256":  "9036c6660815b19123d7f66e367b2bceefdadb2bac76902bc2ca3b052a76bc6e"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/skins/minimap.svg",
+                      "bytes":  626138,
+                      "sha256":  "a4c8bcbf01efe3d11bea396c0a8743aacd21fb24c650cdf0aa8b2d388140f8a2"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/skins/objective.svg",
+                      "bytes":  1235848,
+                      "sha256":  "89eb6cfe48790410a470585ee4cd9ebfe78464c17e85eb0150ac56537d1a6d80"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/skins/parchment.svg",
+                      "bytes":  2896736,
+                      "sha256":  "877ababff8115181ed9d4e9dfc2bbf95502ce976a726a4833911adcd6e86c72b"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/ui/01-button-primary-gold.png",
+                      "bytes":  963194,
+                      "sha256":  "042834010f4694db20d1b7ac71ec2d86df8470e4f8e5f10fdb73ef57511ff6a7"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/ui/02-button-secondary-charcoal.png",
+                      "bytes":  1043029,
+                      "sha256":  "9d6643bc018f3be7d353aa79210b5c135a69494c19f483beb700e4207bc47c02"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/ui/03-panel-parchment.png",
+                      "bytes":  2172392,
+                      "sha256":  "411c66db08ff7ae6a375a6b59b2f335cb2d7d168a2e0bf90350142b4a189e41c"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/ui/04-dialog-shell.png",
+                      "bytes":  2003296,
+                      "sha256":  "b926483a5189d55322fa48afb145373cc42b557c3eeab763cdb0ab8934d060e5"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/ui/05-panel-dark.png",
+                      "bytes":  1516528,
+                      "sha256":  "d762c20ff5b11c05ef73746a830b9e26c9e8e54f10b686d0fc47fd75511f052d"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/ui/06-minimap-frame.png",
+                      "bytes":  469442,
+                      "sha256":  "b5554f8c0575689ab9945832224ae6b651778ba8a31c5317334b95423fb06745"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/ui/07-objective-card.png",
+                      "bytes":  926727,
+                      "sha256":  "aa9f4f850586b9ea196f12cad7ec736a56d4e5a7b4d5e6cfef73b5ea7953c8cc"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/assets/ui/08-compass-line-v3.png",
+                      "bytes":  315175,
+                      "sha256":  "0fbc59de19c6b427cb9da0c3c2cd12c5818229f12393051e03e93bf61e623467"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/data/review_data.json",
+                      "bytes":  3718,
+                      "sha256":  "87cd7d939f06a57ac2ba62cba4929e0cc1797bed5aa3c4fea8ca1c885d80da6e"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/tests/commands.test.mjs",
+                      "bytes":  1446,
+                      "sha256":  "713479be38f867f8605930666b2cb31f85b8cc1675227d2bce470b3d5ef26405"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/tests/model.test.mjs",
+                      "bytes":  6452,
+                      "sha256":  "20a35ae4e239e1bf54cc215785528c1ac0060547660159820cd0fad499abd978"
+                  },
+                  {
+                      "path":  "prototype/movement-assets-v2/tests/spatial.test.mjs",
+                      "bytes":  1984,
+                      "sha256":  "f1ca650c230213a66a3983afab3e3f745e5ee9d86ee6b2c99e43ce16e6527d4e"
+                  }
+              ]
+}

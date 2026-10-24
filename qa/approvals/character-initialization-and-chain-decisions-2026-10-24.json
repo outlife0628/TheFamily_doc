@@ -1,0 +1,43 @@
+{
+  "recorded_at": "2026-10-24T17:27:58.400209+09:00",
+  "scope": "Character design decisions; integrated document review only",
+  "approved": {
+    "first_join_hp_sp": "apply_character_specific_initial_table_settings_exactly",
+    "rejoin_resources": "preserve_existing_values",
+    "sp_after_actual_execution_start": {
+      "gameplay_interruption": "no_refund",
+      "zero_effect": "no_refund"
+    },
+    "skill_chain": {
+      "scope": "post_join",
+      "all_conditions_must_be_met": true,
+      "grant_dependent_skills_in_same_operation": true,
+      "retroactive_catchup_at_first_join": false
+    }
+  },
+  "preserved_technical_proposal": "System-processing failures roll back cost/effect/receipt atomically",
+  "user_replies": [
+    {
+      "topic": "first_join_hp_sp_initial_settings",
+      "question": "HP/SP도 캐릭터별 테이블에 지정된 초기 설정을 그대로 적용할까요?",
+      "reply": "그대로 적용"
+    },
+    {
+      "topic": "sp_refund_after_gameplay_interruption_or_zero_effect",
+      "question": "실행 시작 후 게임 내 사유로 중단되거나 효과가 0이어도, 이미 소모한 SP는 환불하지 않는 기준으로 진행할까요?",
+      "reply": "진행"
+    },
+    {
+      "topic": "post_join_chain_unlock_same_operation",
+      "question": "합류 이후, 선행 기술을 습득해 다른 기술의 모든 조건까지 충족하면 그 기술도 같은 처리에서 바로 습득하도록 할까요?",
+      "reply": "승인"
+    }
+  ],
+  "not_approved_by_this_record": [
+    "Final numerical initial HP/SP, growth/XP tables or balance",
+    "Exact schema fields, fixed-point algorithm or runtime implementation",
+    "First-join skill catch-up",
+    "Actual artwork, HTML/Godot or next system implementation"
+  ],
+  "next_stage": "Integrated review of the updated character design; wait for user review"
+}

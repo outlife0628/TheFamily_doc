@@ -1,0 +1,667 @@
+{
+  "date": "2026-10-23T03:29:39.571Z",
+  "base": "http://127.0.0.1:8081",
+  "resources": [
+    {
+      "path": "",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 703
+    },
+    {
+      "path": "styles.css",
+      "status": 200,
+      "mime": "text/css",
+      "bytes": 16973
+    },
+    {
+      "path": "art-skin.css",
+      "status": 200,
+      "mime": "text/css",
+      "bytes": 10859
+    },
+    {
+      "path": "app.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 31120
+    },
+    {
+      "path": "components.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 5286
+    },
+    {
+      "path": "field.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 12605
+    },
+    {
+      "path": "model.mjs",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 5076
+    },
+    {
+      "path": "commands.mjs",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 497
+    },
+    {
+      "path": "spatial.mjs",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 1233
+    },
+    {
+      "path": "data/review_data.json",
+      "status": 200,
+      "mime": "application/json",
+      "bytes": 3718
+    },
+    {
+      "path": "assets/skin-manifest.json",
+      "status": 200,
+      "mime": "application/json",
+      "bytes": 2901
+    },
+    {
+      "path": "assets/world_map_source.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 4057267
+    },
+    {
+      "path": "assets/ui/01-button-primary-gold.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 963194
+    },
+    {
+      "path": "assets/skins/button-gold.svg",
+      "status": 200,
+      "mime": "image/svg+xml",
+      "bytes": 1284472
+    },
+    {
+      "path": "assets/ui/02-button-secondary-charcoal.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 1043029
+    },
+    {
+      "path": "assets/skins/button-charcoal.svg",
+      "status": 200,
+      "mime": "image/svg+xml",
+      "bytes": 1390920
+    },
+    {
+      "path": "assets/ui/03-panel-parchment.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 2172392
+    },
+    {
+      "path": "assets/skins/parchment.svg",
+      "status": 200,
+      "mime": "image/svg+xml",
+      "bytes": 2896736
+    },
+    {
+      "path": "assets/ui/04-dialog-shell.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 2003296
+    },
+    {
+      "path": "assets/skins/dialog.svg",
+      "status": 200,
+      "mime": "image/svg+xml",
+      "bytes": 2671275
+    },
+    {
+      "path": "assets/ui/05-panel-dark.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 1516528
+    },
+    {
+      "path": "assets/skins/dark.svg",
+      "status": 200,
+      "mime": "image/svg+xml",
+      "bytes": 2022252
+    },
+    {
+      "path": "assets/ui/06-minimap-frame.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 469442
+    },
+    {
+      "path": "assets/skins/minimap.svg",
+      "status": 200,
+      "mime": "image/svg+xml",
+      "bytes": 626138
+    },
+    {
+      "path": "assets/ui/07-objective-card.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 926727
+    },
+    {
+      "path": "assets/skins/objective.svg",
+      "status": 200,
+      "mime": "image/svg+xml",
+      "bytes": 1235848
+    },
+    {
+      "path": "assets/ui/08-compass-line-v3.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 315175
+    },
+    {
+      "path": "assets/skins/compass.svg",
+      "status": 200,
+      "mime": "image/svg+xml",
+      "bytes": 420448
+    }
+  ],
+  "artwork": [
+    {
+      "name": "button-gold",
+      "sha256": "042834010f4694db20d1b7ac71ec2d86df8470e4f8e5f10fdb73ef57511ff6a7",
+      "approvedCopyMatches": true,
+      "embeddedCopyMatches": true
+    },
+    {
+      "name": "button-charcoal",
+      "sha256": "9d6643bc018f3be7d353aa79210b5c135a69494c19f483beb700e4207bc47c02",
+      "approvedCopyMatches": true,
+      "embeddedCopyMatches": true
+    },
+    {
+      "name": "parchment",
+      "sha256": "411c66db08ff7ae6a375a6b59b2f335cb2d7d168a2e0bf90350142b4a189e41c",
+      "approvedCopyMatches": true,
+      "embeddedCopyMatches": true
+    },
+    {
+      "name": "dialog",
+      "sha256": "b926483a5189d55322fa48afb145373cc42b557c3eeab763cdb0ab8934d060e5",
+      "approvedCopyMatches": true,
+      "embeddedCopyMatches": true
+    },
+    {
+      "name": "dark",
+      "sha256": "d762c20ff5b11c05ef73746a830b9e26c9e8e54f10b686d0fc47fd75511f052d",
+      "approvedCopyMatches": true,
+      "embeddedCopyMatches": true
+    },
+    {
+      "name": "minimap",
+      "sha256": "b5554f8c0575689ab9945832224ae6b651778ba8a31c5317334b95423fb06745",
+      "approvedCopyMatches": true,
+      "embeddedCopyMatches": true
+    },
+    {
+      "name": "objective",
+      "sha256": "aa9f4f850586b9ea196f12cad7ec736a56d4e5a7b4d5e6cfef73b5ea7953c8cc",
+      "approvedCopyMatches": true,
+      "embeddedCopyMatches": true
+    },
+    {
+      "name": "compass",
+      "sha256": "0fbc59de19c6b427cb9da0c3c2cd12c5818229f12393051e03e93bf61e623467",
+      "approvedCopyMatches": true,
+      "embeddedCopyMatches": true
+    }
+  ],
+  "preservation": [
+    {
+      "path": "AGENTS.md",
+      "unchanged": true
+    },
+    {
+      "path": "CURRENT_DECISIONS.md",
+      "unchanged": true
+    },
+    {
+      "path": "CURRENT_STATE.md",
+      "unchanged": true
+    },
+    {
+      "path": "MOVEMENT_README.md",
+      "unchanged": true
+    },
+    {
+      "path": "PACKAGE_CHECKS.md",
+      "unchanged": true
+    },
+    {
+      "path": "README.md",
+      "unchanged": true
+    },
+    {
+      "path": "SOURCE_MANIFEST.json",
+      "unchanged": true
+    },
+    {
+      "path": "UI_ASSET_REVIEW.md",
+      "unchanged": true
+    },
+    {
+      "path": "archive/2026-10-22-ui-policy/31_UI_Production_Guidelines_Ver0.8.1.md",
+      "unchanged": true
+    },
+    {
+      "path": "archive/2026-10-22-ui-policy/35_UI_Concept_Baseline_Ver0.8.1.md",
+      "unchanged": true
+    },
+    {
+      "path": "archive/2026-10-22-ui-policy/CHANGELOG.md",
+      "unchanged": true
+    },
+    {
+      "path": "archive/ui-asset-review-set-01/compass-cleanup-attempt.json",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/01-button-primary-gold.png",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/02-button-secondary-charcoal.png",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/03-panel-parchment.png",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/04-dialog-shell.png",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/05-panel-dark.png",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/06-minimap-frame.png",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/07-objective-card.png",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/08-compass-line-v3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/08-compass.png",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/asset-inspection.json",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/generation-copy-check.json",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/inspect-assets.mjs",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/inspection-console.txt",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/MANIFEST.json",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/PROMPTS.json",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/prototype-preservation-before.json",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/prototype-preservation-result.json",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "art/ui_review/set-01/VALIDATION.md",
+      "unchanged": true
+    },
+    {
+      "path": "docs/CURRENT_STATE.md",
+      "unchanged": true
+    },
+    {
+      "path": "docs/Movement_HTML_Acceptance.md",
+      "unchanged": true
+    },
+    {
+      "path": "docs/Movement_Implementation_Plan.md",
+      "unchanged": true
+    },
+    {
+      "path": "docs/Movement_System_UI.md",
+      "unchanged": true
+    },
+    {
+      "path": "docs/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "docs/System_UI_Stage_Map.md",
+      "unchanged": true
+    },
+    {
+      "path": "docs/UI_Asset_Review_Stage.md",
+      "unchanged": true
+    },
+    {
+      "path": "docs/UI_Concept_Baseline.md",
+      "unchanged": true
+    },
+    {
+      "path": "docs/UI_Guideline_Update_Scope.md",
+      "unchanged": true
+    },
+    {
+      "path": "docs/UI_Production_Guidelines.md",
+      "unchanged": true
+    },
+    {
+      "path": "prompts/01_Read_Only_Handoff.txt",
+      "unchanged": true
+    },
+    {
+      "path": "prompts/02_Movement_HTML_After_Review.txt",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/app.js",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/commands.mjs",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/components.js",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/field.js",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/index.html",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/model.mjs",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/spatial.mjs",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/styles.css",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/assets/world_map_source.png",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/data/review_data.json",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/tests/commands.test.mjs",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/tests/model.test.mjs",
+      "unchanged": true
+    },
+    {
+      "path": "prototype/movement/tests/spatial.test.mjs",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/browser-check.mjs",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/browser-results.json",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/check-http.mjs",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/check-preservation.mjs",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/EXECUTION.md",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/http-results.json",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/model-red.txt",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/model-results.txt",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/original-files-baseline.json",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/preservation-results.json",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/REPORT.md",
+      "unchanged": true
+    },
+    {
+      "path": "qa/movement/REVIEW.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/Codex_Official_Sources.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/REFERENCE_INDEX.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/approved_direction/simplified_movement_concept.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/screen_expansions_review_only/departure_image_only.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/screen_expansions_review_only/field_image_only.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/screen_expansions_review_only/journey_image_only.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/screen_expansions_review_only/worldmap_image_only.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_01.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_02.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_03.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_04.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_05.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_06.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_07.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_08.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_09.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_10.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_11.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_12.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_13.png",
+      "unchanged": true
+    },
+    {
+      "path": "reference/design_snapshot/00_Planning_Map_Ver0.6.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/design_snapshot/01_Basic_System_UI_Ver0.4.2.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/design_snapshot/02_Movement_System_UI_Ver0.3.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/design_snapshot/review/Map_Tool_Integration_Checklist.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/design_snapshot/templates/System_UI_Template.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/guideline_snapshot/31_UI_Production_Guidelines_Ver0.8.1.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/guideline_snapshot/35_UI_Concept_Baseline_Ver0.8.1.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/01_세계관.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/02_캐릭터_상세시트_주요인물.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/03_캐릭터_상세시트_정치조력자악역.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/04_주요설정.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/05_주요이벤트.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/06_전체이야기흐름_Act구조.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/07_기타_논의필요요소.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/08_설정변경_최신기준.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/09_Act1_상세설계.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/10_Act1_신규조연_첫직원3인.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/11_Act2_상세설계.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/scenario/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "reference/world/world_map_source.png",
+      "unchanged": true
+    },
+    {
+      "path": "templates/System_UI_Template.md",
+      "unchanged": true
+    }
+  ],
+  "passed": true
+}

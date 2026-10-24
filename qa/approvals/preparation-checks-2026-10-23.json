@@ -1,0 +1,19 @@
+﻿{
+    "date":  "2026-10-23T13:37:59+09:00",
+    "existingFilesChecked":  174,
+    "existingFilesUnchanged":  174,
+    "unexpectedChanges":  [
+
+                          ],
+    "approvedFilesChecked":  33,
+    "approvedFilesUnchanged":  33,
+    "documentLinksChecked":  20,
+    "brokenDocumentLinks":  [
+
+                            ],
+    "futureCharacterPathsAlreadyCreated":  [
+
+                                           ],
+    "runtimeTestsRunThisTurn":  0,
+    "note":  "Documentation, preparation, snapshot and source/link checks only; prior runtime results were read without reclassifying browser failures."
+}

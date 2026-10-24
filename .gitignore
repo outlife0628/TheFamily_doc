@@ -1,0 +1,23 @@
+# Generated transfer bundles and local packaging evidence.
+/transfer/
+
+# Machine-specific agent settings and credentials.
+/.codex/
+/.agents/
+/.aws/
+.env
+.env.*
+!.env.example
+
+# Rebuildable environments and caches.
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+
+# Operating-system metadata.
+.DS_Store
+Thumbs.db
+Desktop.ini

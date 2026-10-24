@@ -1,0 +1,9 @@
+{
+  "component": "08 compass",
+  "purpose": "Alpha-edge contamination cleanup attempt",
+  "status": "not_selected; color fringe still visible",
+  "toolMode": "built-in image_gen",
+  "prompt": "Use case: precise-object-edit / transparent UI icon edge cleanup. Input image 1 is the edit target: the generated antique-gold compass rose asset. CHANGE ONLY the alpha-edge contamination: remove ALL stray red, orange-red, hot yellow/green pixels, isolated flecks and colored matte fringe along the silhouette and inside its open spaces. The foreground design must remain the SAME compass rose: same four long points, same short diagonal points, ring, central small star, antique brass texture, proportions and placement. Keep every intended gold/brown metal part. Make clean anti-aliased gold-to-transparent edges with no red matte and no opaque leftover background. The outside and open spaces between the ring and needles must be true alpha transparency, not black paint or a checkerboard image. Preserve existing transparency. No text, no logo, no new ornament, no extra objects. Deliver one cleaned transparent compass icon, unchanged composition.",
+  "outputDefaultPath": "C:\\Users\\outli\\.codex\\generated_images\\01a162c9-3208-7f31-90c6-530dee7ced90\\exec-7bdde66c-9139-4f1a-aa17-00cb5da1ed44.png",
+  "note": "Original output retained in built-in generated_images. Not used by prototype or selected review assets."
+}

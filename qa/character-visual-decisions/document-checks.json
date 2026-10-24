@@ -1,0 +1,97 @@
+{
+  "kind": "Document and synthetic metadata checks only",
+  "passed": 18,
+  "total": 18,
+  "checks": [
+    {
+      "check": "Eight field directions and5source3mirror policy documented",
+      "passed": true
+    },
+    {
+      "check": "Mirror prohibition and unresolved direction-count text removed",
+      "passed": true
+    },
+    {
+      "check": "Dedicated illustration required for information portrait",
+      "passed": true
+    },
+    {
+      "check": "Icon reuse still undecided",
+      "passed": true
+    },
+    {
+      "check": "Fixture has8display5source3mirror directions",
+      "passed": true
+    },
+    {
+      "check": "Fixture valid opposite directions and source-only mirror links",
+      "passed": true
+    },
+    {
+      "check": "Asset/import-profile fixture references resolve",
+      "passed": true
+    },
+    {
+      "check": "Region revision references and bounds valid",
+      "passed": true
+    },
+    {
+      "check": "Portrait has independent painted illustration asset",
+      "passed": true
+    },
+    {
+      "check": "Illustration-separated buffer-size arithmetic",
+      "passed": true
+    },
+    {
+      "check": "UI revision sharing keeps portrait separate",
+      "passed": true
+    },
+    {
+      "check": "Incomplete metadata does not claim artwork/direction readiness",
+      "passed": true
+    },
+    {
+      "check": "Current-document local links resolve",
+      "passed": true
+    },
+    {
+      "check": "No stray CJK/Japanese or unfinished markers",
+      "passed": true
+    },
+    {
+      "check": "33movement files match approved hashes",
+      "passed": true
+    },
+    {
+      "check": "Only6scoped files changed; originals archived exactly",
+      "passed": true
+    },
+    {
+      "check": "Numeric-resource annex unchanged",
+      "passed": true
+    },
+    {
+      "check": "Approval preserves exact user reply",
+      "passed": true
+    }
+  ],
+  "links_checked": 60,
+  "baseline_files": 235,
+  "unchanged_existing_files": 229,
+  "modified_existing_files": [
+    "NEXT_STAGE.md",
+    "docs/character/03_Character_System_UI.md",
+    "docs/character/Character_Asset_Tables.md",
+    "docs/character/Character_Review_Request.md",
+    "docs/next-stage/CURRENT_STATE.md",
+    "docs/next-stage/SYS03_Preparation.md"
+  ],
+  "byte_identical_archives": 6,
+  "approved_movement_files_unchanged": 33,
+  "physical_art_created": 0,
+  "runtime_tests_executed": 0,
+  "browser_tests_executed": 0,
+  "engine_tests_executed": 0,
+  "screenshots": 0
+}

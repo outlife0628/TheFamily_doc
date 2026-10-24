@@ -1,0 +1,100 @@
+{
+  "kind": "Document and synthetic-fixture checks only",
+  "passed": 19,
+  "total": 19,
+  "checks": [
+    {
+      "check": "HP0 excluded from battle and nonbattle XP",
+      "passed": true
+    },
+    {
+      "check": "First join applies only explicit initial skills/ranks",
+      "passed": true
+    },
+    {
+      "check": "Nonlevel maximum-change policy marked approved",
+      "passed": true
+    },
+    {
+      "check": "SP commit/cancel/miss/resist policy marked approved",
+      "passed": true
+    },
+    {
+      "check": "Revival uses configured HP/SP rules with data validation",
+      "passed": true
+    },
+    {
+      "check": "Stale pending and first-join catchup policies removed",
+      "passed": true
+    },
+    {
+      "check": "Initial fixture has no catchup and preserves table ranks",
+      "passed": true
+    },
+    {
+      "check": "HP0 quest/event fixture awards zero XP",
+      "passed": true
+    },
+    {
+      "check": "SP cancellation/miss/resist fixture arithmetic",
+      "passed": true
+    },
+    {
+      "check": "Approved nonlevel maximum fixture arithmetic",
+      "passed": true
+    },
+    {
+      "check": "Revival fixtures honor different configured HP/SP rules",
+      "passed": true
+    },
+    {
+      "check": "XP cap-retention and precision fixtures preserved",
+      "passed": true
+    },
+    {
+      "check": "Initial skill fixture references valid defined rank",
+      "passed": true
+    },
+    {
+      "check": "Current document links resolve",
+      "passed": true
+    },
+    {
+      "check": "Current Korean docs free of stray CJK/Japanese and placeholders",
+      "passed": true
+    },
+    {
+      "check": "Nullable schema fields preserved",
+      "passed": true
+    },
+    {
+      "check": "33 movement files match approved hashes",
+      "passed": true
+    },
+    {
+      "check": "All changes scoped and old files archived byte-identically",
+      "passed": true
+    },
+    {
+      "check": "New approval records preserve exact user replies",
+      "passed": true
+    }
+  ],
+  "links_checked": 55,
+  "baseline_files": 225,
+  "unchanged_existing_files": 219,
+  "modified_existing_files": [
+    "NEXT_STAGE.md",
+    "docs/character/03_Character_System_UI.md",
+    "docs/character/Character_Data_Tables.md",
+    "docs/character/Character_Review_Request.md",
+    "docs/next-stage/CURRENT_STATE.md",
+    "docs/next-stage/SYS03_Preparation.md"
+  ],
+  "byte_identical_archives": 6,
+  "approved_movement_files_unchanged": 33,
+  "runtime_tests_executed": 0,
+  "browser_tests_executed": 0,
+  "engine_tests_executed": 0,
+  "screenshots": 0
+}

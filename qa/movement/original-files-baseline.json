@@ -1,0 +1,210 @@
+[
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\AGENTS.md",
+    "Sha256": "7F042CDBE7A2F038D7ED656FC38D855A218E0AB4028DC1C8BB830FAAA89FB02B"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\CURRENT_DECISIONS.md",
+    "Sha256": "74E94CA3708EFB9ACF788387DD5C41A1B97DFDCBD38B1E510CD60480E2F1B734"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\CURRENT_STATE.md",
+    "Sha256": "EC5CD5EB92B3B43217626B8119F9BF1EBACD58609FFFB3E2148B69841C2CED68"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\PACKAGE_CHECKS.md",
+    "Sha256": "24CE2FB3381BB8EAF4AE2E59771E302EB71B1BD875134D0483EC9281D4BF0E57"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\README.md",
+    "Sha256": "EE89B1DAF78BF42CBB896852782931E3585C8DFFB5D0D49E9DF85F0851236021"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\SOURCE_MANIFEST.json",
+    "Sha256": "14DB822F2EF604B2A34301E61ED737E0FEA1C9A356BD61F1CD664F6A023D5DF3"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\docs\\Movement_HTML_Acceptance.md",
+    "Sha256": "6CE5EDD3738E9E26A0577C04EA59D0FF25BCC7D75AA561F63220C9E405976D73"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\docs\\System_UI_Stage_Map.md",
+    "Sha256": "894E4ADF0FE98431A58013646E0433185BD9CC55F068BBAFD2299C170F82BB15"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\docs\\UI_Guideline_Update_Scope.md",
+    "Sha256": "8AD4D609057A14CC3C8986050ABB085B40D5FBC51A2C13A2C672A32A5F30AB1B"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\prompts\\01_Read_Only_Handoff.txt",
+    "Sha256": "615B2A4B4350665907873D012FD27D2DB64D45CD8EEAE2BA2F66109835BABD28"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\prompts\\02_Movement_HTML_After_Review.txt",
+    "Sha256": "0C4251406F4391EFAF796DF33D47D71FFC9B09CA61892F87F7086063876F3A58"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\Codex_Official_Sources.md",
+    "Sha256": "7AD579037AC9929469D93F450BC70B311C509E68B05702806FBD24E3EACCA602"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\REFERENCE_INDEX.md",
+    "Sha256": "0EDCDDA5ED3147932C2755B6A272F6A0FAA90DE26D3C770DCEECCD71AE32A83D"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\approved_direction\\simplified_movement_concept.png",
+    "Sha256": "17540D4E8DD2A4F4B0BE37D6A166D6FCC35D5118A6302F40A65AADAC19581C06"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\screen_expansions_review_only\\departure_image_only.png",
+    "Sha256": "6321260E0C1AA0D07F9E0FF26F17CCBC863266A1802C1227B3C53008A864F973"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\screen_expansions_review_only\\field_image_only.png",
+    "Sha256": "5B9DA9031DE7636A72ED81354787E06AC25D6BD41E46B6BE9503B905563564AA"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\screen_expansions_review_only\\journey_image_only.png",
+    "Sha256": "0466CA7AAEAB4AB58D5EF3B0F41FE9597E9566D47BA86C09631667339022C2E6"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\screen_expansions_review_only\\worldmap_image_only.png",
+    "Sha256": "429F9E26D23DC760B73D2E8B94FF791E41F1956667D93310569785144BA05594"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_01.png",
+    "Sha256": "55EED96B9F2DF40B0CDD83CAA4B31A2DCE8E8A0C6F31E0489EFE30B434AA3BF8"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_02.png",
+    "Sha256": "F72ABA4910C00D3CCFA9184DC3ACF08E71EBB966899BFAA544170B88716D4CA1"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_03.png",
+    "Sha256": "BE76D8D05407F044C08BC8F5C54C52C577F1C800DDE6150674E59235B5C0937C"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_04.png",
+    "Sha256": "32C78D6C11F44696BE70E4765AB4947FE38E8E9BA15B2E2BECD4B476C8F90A6B"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_05.png",
+    "Sha256": "43E25486068069DCE8F11CFD083561392411062792B64D83ABFE4847F8A8D48E"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_06.png",
+    "Sha256": "C538D6BA68FF53FCE5D2F3ACB2D2D93904EABB9426A6188BD318A4C7B01DE00A"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_07.png",
+    "Sha256": "F78C8E836CA6F770F8EF6C52757BD7900B7B10EA014D38C17E696BF7C2ED531C"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_08.png",
+    "Sha256": "2DC0F84275FA638D68C72461972F28956D806B74F817970C743B6AB90B9736D0"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_09.png",
+    "Sha256": "CC13CE89275E76435119EE76F2F65A7CE1D7CC4B28639927852A2663724B2763"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_10.png",
+    "Sha256": "173993FA4C37B1BDA116B86FF12446129241BA8FFA7DF4156F8AF87BE95B77D7"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_11.png",
+    "Sha256": "58B01EBF4FA42109F4455DD01E32D3027339A4050FA4052C284021F61E2213A7"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_12.png",
+    "Sha256": "0966B58A167C186B14F56C6B252EAD90C2379F52B1BDB80381EB14B43E8A5170"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\art\\style_sources\\UI_reference_13.png",
+    "Sha256": "B0E0BCF32916C5C2D7BE840FB5630946C1806EEC7CE2C690F2F5081A24A81A3E"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\design_snapshot\\00_Planning_Map_Ver0.6.md",
+    "Sha256": "5B8F81F12CB20B77A423FB60046BEEC96DE6B0B854E8D05F2CA32A5DF8CA895E"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\design_snapshot\\01_Basic_System_UI_Ver0.4.2.md",
+    "Sha256": "9D5A0F9C9949C0F06657D2CCCFD454266C90F6F5EF7952126D8E6DA231BB7AFE"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\design_snapshot\\02_Movement_System_UI_Ver0.3.md",
+    "Sha256": "13FF8C54660E58FAC4BD69686405F9C6C08BF31A06FFB1CEFB143E88BF32E1A6"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\design_snapshot\\review\\Map_Tool_Integration_Checklist.md",
+    "Sha256": "24DF8D5BF635709F18E8501C5E6DD387929E23E47D8EAD8A3FAE5BDCC4529778"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\design_snapshot\\templates\\System_UI_Template.md",
+    "Sha256": "29DE7F92B9B3542CC0D1393CC8E8295187274F412BD5DD7D9CBAABAC2D2281E1"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\guideline_snapshot\\31_UI_Production_Guidelines_Ver0.8.1.md",
+    "Sha256": "BA99E601AC677320ECD58A8BB3DA27BABAECD4D3567D7641413F787F4211E6BE"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\guideline_snapshot\\35_UI_Concept_Baseline_Ver0.8.1.md",
+    "Sha256": "F6121122AF17645218C5A9369EB6D5E7C8A627F784515CF373D6F058A759839E"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\01_세계관.md",
+    "Sha256": "6911F0CFCFF5D19E9E3C45B0AF2EF2D1F6DBCFDB59DD92457D93AEB548A06E9D"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\02_캐릭터_상세시트_주요인물.md",
+    "Sha256": "FA0651F01DBD80E106B86583EBEAF520E11C20D3CD1BE8ADFAEB756E449BB540"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\03_캐릭터_상세시트_정치조력자악역.md",
+    "Sha256": "9FD0E305E7FC563E07432A3A2F3EA26986EB83EBA8713FA6D19A8E4E50C39AD2"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\04_주요설정.md",
+    "Sha256": "DE82462A60C6AC4130918767F504F34253F105F47ADED4A64CC554BBAE7BCFA1"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\05_주요이벤트.md",
+    "Sha256": "385F188BD7A9DA18FA923D10C1D9C802AD95265E14982858045A253E69BCC761"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\06_전체이야기흐름_Act구조.md",
+    "Sha256": "2C954CA7BC69236365EBF866D73F7CB1F741DE87034B36BC58D6206A039E2B01"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\07_기타_논의필요요소.md",
+    "Sha256": "7D42ACE553711899FE9F39F03C4D2E68DEA0FC3C552E278A87E6A2350E7F016C"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\08_설정변경_최신기준.md",
+    "Sha256": "F3E5C789BA3EEFE018AFA15336AB9651252FCFF8AAC1AAAF59B000C968FCB87A"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\09_Act1_상세설계.md",
+    "Sha256": "5267F6A63E9BA837600EBB09AE07C0D64982FD92BB5919079F633B7A8AAED78A"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\10_Act1_신규조연_첫직원3인.md",
+    "Sha256": "9005B277F5C1CECF523CDB0119D9558AB62E86F5A5F0553FF650E745A36A4C35"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\11_Act2_상세설계.md",
+    "Sha256": "FF7EEE3928801C1088CE444CD6DEA26A4F7A7F3EE2827F8C49C1A7FCF7D40CF6"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\scenario\\README.md",
+    "Sha256": "CDD083BE2CB8DB86C26F83796C0CA7AE01130BC15B67837FBC513552C8270E3E"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\reference\\world\\world_map_source.png",
+    "Sha256": "EEDB5A7C0A1F582CA7022AC687385194E9C46468DB0CB49F4EEFC5A9DD3EE296"
+  },
+  {
+    "Path": "D:\\BG\\TheFamily_doc\\templates\\System_UI_Template.md",
+    "Sha256": "29DE7F92B9B3542CC0D1393CC8E8295187274F412BD5DD7D9CBAABAC2D2281E1"
+  }
+]

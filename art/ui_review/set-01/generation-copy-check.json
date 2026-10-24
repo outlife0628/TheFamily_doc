@@ -1,0 +1,56 @@
+[
+  {
+    "file": "01-button-primary-gold.png",
+    "bytesIdentical": true,
+    "bytes": 963194,
+    "sha256": "042834010f4694db20d1b7ac71ec2d86df8470e4f8e5f10fdb73ef57511ff6a7"
+  },
+  {
+    "file": "02-button-secondary-charcoal.png",
+    "bytesIdentical": true,
+    "bytes": 1043029,
+    "sha256": "9d6643bc018f3be7d353aa79210b5c135a69494c19f483beb700e4207bc47c02"
+  },
+  {
+    "file": "03-panel-parchment.png",
+    "bytesIdentical": true,
+    "bytes": 2172392,
+    "sha256": "411c66db08ff7ae6a375a6b59b2f335cb2d7d168a2e0bf90350142b4a189e41c"
+  },
+  {
+    "file": "04-dialog-shell.png",
+    "bytesIdentical": true,
+    "bytes": 2003296,
+    "sha256": "b926483a5189d55322fa48afb145373cc42b557c3eeab763cdb0ab8934d060e5"
+  },
+  {
+    "file": "05-panel-dark.png",
+    "bytesIdentical": true,
+    "bytes": 1516528,
+    "sha256": "d762c20ff5b11c05ef73746a830b9e26c9e8e54f10b686d0fc47fd75511f052d"
+  },
+  {
+    "file": "06-minimap-frame.png",
+    "bytesIdentical": true,
+    "bytes": 469442,
+    "sha256": "b5554f8c0575689ab9945832224ae6b651778ba8a31c5317334b95423fb06745"
+  },
+  {
+    "file": "07-objective-card.png",
+    "bytesIdentical": true,
+    "bytes": 926727,
+    "sha256": "aa9f4f850586b9ea196f12cad7ec736a56d4e5a7b4d5e6cfef73b5ea7953c8cc"
+  },
+  {
+    "file": "08-compass.png",
+    "bytesIdentical": true,
+    "bytes": 739531,
+    "sha256": "19fc128b9ae9ed802451ac9f483c72e1a3b9d26ed00e6c74db3d26abfeb37d42"
+  },
+  {
+    "file": "08-compass-line-v3.png",
+    "bytesIdentical": true,
+    "bytes": 315175,
+    "sha256": "0fbc59de19c6b427cb9da0c3c2cd12c5818229f12393051e03e93bf61e623467"
+  }
+]

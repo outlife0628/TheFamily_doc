@@ -1,0 +1,84 @@
+{
+  "recorded_at": "2026-10-23T21:25:54.826665+09:00",
+  "scope": "Additional character design decisions; supplements the immutable earlier core-decisions record",
+  "prior_record": "qa/approvals/character-core-decisions-2026-10-23.json",
+  "approved": {
+    "battle_xp": {
+      "distribution": "fixed_amount_per_eligible_recipient",
+      "excluded_share_redistribution": false,
+      "requires_actual_participation": true,
+      "requires_able_to_act_at_victory": true,
+      "reserve_or_nonparticipant_receives_this_battle_xp": false,
+      "other_party_receives_this_battle_xp": false
+    },
+    "xp_sources": {
+      "common_per_actor_growth_variable": true,
+      "any_system_may_provide_defined_xp_effect": true,
+      "examples": [
+        "battle",
+        "quest",
+        "event",
+        "xp_item"
+      ],
+      "system_whitelist": false,
+      "battle_participation_filter_applies_only_to_battle_rewards": true
+    },
+    "knockout_items": {
+      "only_revival_items_usable_on_knocked_out_actor": true,
+      "other_items_consume_nothing_when_target_is_invalid": true
+    },
+    "level_cap": 100,
+    "xp_at_cap": "continue_accumulating_and_saving_total_xp",
+    "first_join_level": {
+      "source": "character_specific_initial_level",
+      "scaled_to_party_average": false,
+      "rejoin_preserves_existing_progress": true
+    }
+  },
+  "user_replies": [
+    {
+      "topic": "fixed_battle_xp_per_eligible_recipient_without_redistribution",
+      "reply": "승인"
+    },
+    {
+      "topic": "actual_participants_able_to_act_at_victory_only",
+      "reply": "승인"
+    },
+    {
+      "topic": "unrestricted_xp_providing_systems",
+      "reply": "xp 획득은 전투, 퀘스트, 이벤트 이외에 xp 아이템과 같이 xp를 제공하는 아이템으로도 제공 될 수 있음. xp자체가 하나의 변수로 활용되고 특정한 시스템에서 제공되지 않도록 막아선 안됨."
+    },
+    {
+      "topic": "knockout_item_restriction",
+      "reply": "전투 불능 상태에게는 부활 아이템을 제외한 나머지 모든 아이템 사용 불가"
+    },
+    {
+      "topic": "level_cap",
+      "reply": "lv 100으로"
+    },
+    {
+      "topic": "xp_after_level_cap",
+      "reply": "누적 저장"
+    },
+    {
+      "topic": "character_specific_initial_level_independent_of_party_average_and_preserved_on_rejoin",
+      "reply": "승인"
+    }
+  ],
+  "not_approved_by_this_record": [
+    "XP consumption, reduction or level-down",
+    "Final XP curves, initial level values, stat coefficients or item reward amounts",
+    "Non-item non-battle XP handling for knocked-out recipients",
+    "Initial skill catch-up and chain-unlock details",
+    "Revival quantities, facility prices or time",
+    "New art, HTML, Godot or other-system implementation"
+  ],
+  "remaining_decisions": [
+    "Non-item non-battle XP eligibility for HP0",
+    "Initial skill catch-up",
+    "Non-level maximum-resource changes",
+    "Skill cost commit/refund policy",
+    "Revival quantities and facility terms",
+    "Asset management details"
+  ]
+}

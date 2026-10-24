@@ -1,0 +1,318 @@
+{
+  "created": "2026-10-22",
+  "purpose": "source inventory; not game validation",
+  "sources": [
+    {
+      "path": "reference/design_snapshot/00_Planning_Map_Ver0.6.md",
+      "source": "TheFamily_Modular_Design_Ver0.6.zip::TheFamily_Modular_Design_Ver0.6/00_Planning_Map_Ver0.6.md",
+      "role": "system_source_snapshot",
+      "approval_scope": "기능/규칙 근거. 최신 사용자 UI 결정 및 단계 상태를 별도 적용. 원문의 예전 HTML/확대 안내는 현행 아님.",
+      "bytes": 19480,
+      "sha256": "5b8f81f12cb20b77a423fb60046beec96de6b0b854e8d05f2ca32a5df8ca895e"
+    },
+    {
+      "path": "reference/design_snapshot/01_Basic_System_UI_Ver0.4.2.md",
+      "source": "TheFamily_Modular_Design_Ver0.6.zip::TheFamily_Modular_Design_Ver0.6/01_Basic_System_UI_Ver0.4.2.md",
+      "role": "system_source_snapshot",
+      "approval_scope": "기능/규칙 근거. 최신 사용자 UI 결정 및 단계 상태를 별도 적용. 원문의 예전 HTML/확대 안내는 현행 아님.",
+      "bytes": 42460,
+      "sha256": "9d5a0f9c9949c0f06657d2cccfd454266c90f6f5ef7952126d8e6da231bb7afe"
+    },
+    {
+      "path": "reference/design_snapshot/02_Movement_System_UI_Ver0.3.md",
+      "source": "TheFamily_Modular_Design_Ver0.6.zip::TheFamily_Modular_Design_Ver0.6/02_Movement_System_UI_Ver0.3.md",
+      "role": "system_source_snapshot",
+      "approval_scope": "기능/규칙 근거. 최신 사용자 UI 결정 및 단계 상태를 별도 적용. 원문의 예전 HTML/확대 안내는 현행 아님.",
+      "bytes": 66098,
+      "sha256": "13ff8c54660e58fac4bd69686405f9c6c08bf31a06ffb1cefb143e88bf32e1a6"
+    },
+    {
+      "path": "reference/design_snapshot/review/Map_Tool_Integration_Checklist.md",
+      "source": "TheFamily_Modular_Design_Ver0.6.zip::TheFamily_Modular_Design_Ver0.6/review/Map_Tool_Integration_Checklist.md",
+      "role": "system_source_snapshot",
+      "approval_scope": "기능/규칙 근거. 최신 사용자 UI 결정 및 단계 상태를 별도 적용. 원문의 예전 HTML/확대 안내는 현행 아님.",
+      "bytes": 2578,
+      "sha256": "24df8d5bf635709f18e8501c5e6dd387929e23e47d8ead8a3fae5bdcc4529778"
+    },
+    {
+      "path": "reference/design_snapshot/templates/System_UI_Template.md",
+      "source": "TheFamily_Modular_Design_Ver0.6.zip::TheFamily_Modular_Design_Ver0.6/templates/System_UI_Template.md",
+      "role": "system_source_snapshot",
+      "approval_scope": "기능/규칙 근거. 최신 사용자 UI 결정 및 단계 상태를 별도 적용. 원문의 예전 HTML/확대 안내는 현행 아님.",
+      "bytes": 5410,
+      "sha256": "29de7f92b9b3542cc0d1393cc8e8295187274f412bd5dd7d9cbaabac2d2281e1"
+    },
+    {
+      "path": "reference/guideline_snapshot/31_UI_Production_Guidelines_Ver0.8.1.md",
+      "source": "TheFamily_Modular_Design_Ver0.6.zip::TheFamily_Modular_Design_Ver0.6/reference/ui/docs/31_UI_Production_Guidelines_Ver0.8.1.md",
+      "role": "guideline_source_snapshot",
+      "approval_scope": "구조/공용 UX 근거. 100% 고정 및 새 아트 정책 반영 전 원문.",
+      "bytes": 22361,
+      "sha256": "ba99e601ac677320ecd58a8bb3da27babaecd4d3567d7641413f787f4211e6be"
+    },
+    {
+      "path": "reference/guideline_snapshot/35_UI_Concept_Baseline_Ver0.8.1.md",
+      "source": "TheFamily_Modular_Design_Ver0.6.zip::TheFamily_Modular_Design_Ver0.6/reference/ui/docs/35_UI_Concept_Baseline_Ver0.8.1.md",
+      "role": "guideline_source_snapshot",
+      "approval_scope": "구조/공용 UX 근거. 100% 고정 및 새 아트 정책 반영 전 원문.",
+      "bytes": 8868,
+      "sha256": "f6121122af17645218c5a9369eb6d5e7c8a627f784515cf373d6f058a759839e"
+    },
+    {
+      "path": "templates/System_UI_Template.md",
+      "source": "TheFamily_Modular_Design_Ver0.6.zip::TheFamily_Modular_Design_Ver0.6/templates/System_UI_Template.md",
+      "role": "template",
+      "approval_scope": "작성 양식; 현재 정책 적용",
+      "bytes": 5410,
+      "sha256": "29de7f92b9b3542cc0d1393cc8e8295187274f412bd5dd7d9cbaabac2d2281e1"
+    },
+    {
+      "path": "reference/scenario/README.md",
+      "source": "README.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 3007,
+      "sha256": "cdd083be2cb8db86c26f83796c0ca7ae01130bc15b67837fbc513552c8270e3e"
+    },
+    {
+      "path": "reference/scenario/01_세계관.md",
+      "source": "01_세계관.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 10685,
+      "sha256": "6911f0cfcff5d19e9e3c45b0af2ef2d1f6dbcfdb59dd92457d93aeb548a06e9d"
+    },
+    {
+      "path": "reference/scenario/02_캐릭터_상세시트_주요인물.md",
+      "source": "02_캐릭터_상세시트_주요인물.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 17403,
+      "sha256": "fa0651f01dbd80e106b86583ebeaf520e11c20d3cd1be8adfaeb756e449bb540"
+    },
+    {
+      "path": "reference/scenario/03_캐릭터_상세시트_정치조력자악역.md",
+      "source": "03_캐릭터_상세시트_정치조력자악역.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 29584,
+      "sha256": "9fd0e305e7fc563e07432a3a2f3ea26986eb83eba8713fa6d19a8e4e50c39ad2"
+    },
+    {
+      "path": "reference/scenario/04_주요설정.md",
+      "source": "04_주요설정.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 10999,
+      "sha256": "de82462a60c6ac4130918767f504f34253f105f47aded4a64cc554bbae7bcfa1"
+    },
+    {
+      "path": "reference/scenario/05_주요이벤트.md",
+      "source": "05_주요이벤트.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 14487,
+      "sha256": "385f188bd7a9da18fa923d10c1d9c802ad95265e14982858045a253e69bcc761"
+    },
+    {
+      "path": "reference/scenario/06_전체이야기흐름_Act구조.md",
+      "source": "06_전체이야기흐름_Act구조.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 12713,
+      "sha256": "2c954ca7bc69236365ebf866d73f7cb1f741de87034b36bc58d6206a039e2b01"
+    },
+    {
+      "path": "reference/scenario/07_기타_논의필요요소.md",
+      "source": "07_기타_논의필요요소.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 7648,
+      "sha256": "7d42ace553711899fe9f39f03c4d2e68dea0fc3c552e278a87e6a2350e7f016c"
+    },
+    {
+      "path": "reference/scenario/08_설정변경_최신기준.md",
+      "source": "08_설정변경_최신기준.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 7587,
+      "sha256": "f3e5c789ba3eefe018afa15336ab9651252fcff8aac1aaaf59b000c968fcb87a"
+    },
+    {
+      "path": "reference/scenario/09_Act1_상세설계.md",
+      "source": "09_Act1_상세설계.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 10918,
+      "sha256": "5267f6a63e9ba837600ebb09ae07c0d64982fd92bb5919079f633b7a8aaed78a"
+    },
+    {
+      "path": "reference/scenario/10_Act1_신규조연_첫직원3인.md",
+      "source": "10_Act1_신규조연_첫직원3인.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 8325,
+      "sha256": "9005b277f5c1cecf523cdb0119d9558ab62e86f5a5f0553ff650e745a36a4c35"
+    },
+    {
+      "path": "reference/scenario/11_Act2_상세설계.md",
+      "source": "11_Act2_상세설계.md",
+      "role": "user_story_source",
+      "approval_scope": "원작 원문 보존. 기존 확정/최신 사용자 결정과 상세 문서의 적용 범위를 확인한다.",
+      "bytes": 20631,
+      "sha256": "ff7eee3928801c1088ce444cd6dea26a4f7a7f3ee2827f8c49c1a7fcf7d40cf6"
+    },
+    {
+      "path": "reference/world/world_map_source.png",
+      "source": "더패밀리_월드맵.png",
+      "role": "user_world_map",
+      "approval_scope": "지리 구성안. 정식 도시 좌표·거리·운임·국경 승인 아님.",
+      "bytes": 4057267,
+      "sha256": "eedb5a7c0a1f582ca7022ac687385194e9c46468db0cb49f4eefc5a9dd3ee296"
+    },
+    {
+      "path": "reference/art/approved_direction/simplified_movement_concept.png",
+      "source": "증기와_마법의_이동_시스템_ui_보드.png",
+      "role": "simplified_art_direction",
+      "approval_scope": "사용자가 이 시안으로 목업 진행을 요청한 아트 방향. 문구/지명/모든 레이아웃과 게임 수치까지 승인 아님.",
+      "bytes": 2491199,
+      "sha256": "17540d4e8dd2a4f4b0be37d6a166d6fcc35d5118a6302f40a65aadac19581c06"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_01.png",
+      "source": "UI참고자료01.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 3646862,
+      "sha256": "55eed96b9f2df40b0cdd83caa4b31a2dce8e8a0c6f31e0489efe30b434aa3bf8"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_02.png",
+      "source": "UI참고자료02.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 1978458,
+      "sha256": "f72aba4910c00d3ccfa9184dc3acf08e71ebb966899bfaa544170b88716d4ca1"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_03.png",
+      "source": "UI참고자료03.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 4091209,
+      "sha256": "be76d8d05407f044c08bc8f5c54c52c577f1c800dde6150674e59235b5c0937c"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_04.png",
+      "source": "UI참고자료04.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 3961200,
+      "sha256": "32c78d6c11f44696be70e4765ab4947fe38e8e9ba15b2e2becd4b476c8f90a6b"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_05.png",
+      "source": "UI참고자료05.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 2258979,
+      "sha256": "43e25486068069dce8f11cfd083561392411062792b64d83abfe4847f8a8d48e"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_06.png",
+      "source": "UI참고자료06.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 4400665,
+      "sha256": "c538d6ba68ff53fce5d2f3acb2d2d93904eabb9426a6188bd318a4c7b01de00a"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_07.png",
+      "source": "UI참고자료07.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 3994934,
+      "sha256": "f78c8e836ca6f770f8ef6c52757bd7900b7b10ea014d38c17e696bf7c2ed531c"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_08.png",
+      "source": "UI참고자료08.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 4358515,
+      "sha256": "2dc0f84275fa638d68c72461972f28956d806b74f817970c743b6ab90b9736d0"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_09.png",
+      "source": "UI참고자료09.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 5312707,
+      "sha256": "cc13ce89275e76435119ee76f2f65a7ce1d7cc4b28639927852a2663724b2763"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_10.png",
+      "source": "UI참고자료10.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 4637122,
+      "sha256": "173993fa4c37b1bda116b86ff12446129241ba8ffa7df4156f8af87be95b77d7"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_11.png",
+      "source": "UI참고자료11.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 4494616,
+      "sha256": "58b01ebf4fa42109f4455dd01e32d3027339a4050fa4052c284021f61e2213a7"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_12.png",
+      "source": "UI참고자료12.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 3879202,
+      "sha256": "0966b58a167c186b14f56c6b252ead90c2379f52b1bdb80381eb14b43e8a5170"
+    },
+    {
+      "path": "reference/art/style_sources/UI_reference_13.png",
+      "source": "UI참고자료13.png",
+      "role": "user_style_reference",
+      "approval_scope": "업로드된 레퍼런스. 시각 분석용, 타 작품 자산을 게임 배포용으로 복제하지 않는다.",
+      "bytes": 3742028,
+      "sha256": "b0e0bcf32916c5c2d7be840fb5630946c1806eec7ce2c690f2f5081a24a81a3e"
+    },
+    {
+      "path": "reference/art/screen_expansions_review_only/field_image_only.png",
+      "source": "스팀벨_거리의_아르카디움_탐험.png",
+      "role": "generated_image_only",
+      "approval_scope": "후속 생성 이미지. 실제 HTML 아님, 최종 승인 아님. 원작 불일치·과한 장식 가능; 승인된 단순화 보드를 우선.",
+      "bytes": 2744106,
+      "sha256": "5b9da9031de7636a72ed81354787e06ac25d6bd41e46b6be9503b905563564aa"
+    },
+    {
+      "path": "reference/art/screen_expansions_review_only/worldmap_image_only.png",
+      "source": "아르카디움_월드맵_여행_화면.png",
+      "role": "generated_image_only",
+      "approval_scope": "후속 생성 이미지. 실제 HTML 아님, 최종 승인 아님. 원작 불일치·과한 장식 가능; 승인된 단순화 보드를 우선.",
+      "bytes": 3304650,
+      "sha256": "429f9e26d23dc760b73d2e8b94ff791e41f1956667d93310569785144ba05594"
+    },
+    {
+      "path": "reference/art/screen_expansions_review_only/departure_image_only.png",
+      "source": "아르카디움에서_클라라_성도로_vevent.png",
+      "role": "generated_image_only",
+      "approval_scope": "후속 생성 이미지. 실제 HTML 아님, 최종 승인 아님. 원작 불일치·과한 장식 가능; 승인된 단순화 보드를 우선.",
+      "bytes": 2377476,
+      "sha256": "6321260e0c1aa0d07f9e0ff26f17ccbc863266a1802c1227b3c53008a864f973"
+    },
+    {
+      "path": "reference/art/screen_expansions_review_only/journey_image_only.png",
+      "source": "증기_마차의_판타지_여정_진행_화면.png",
+      "role": "generated_image_only",
+      "approval_scope": "후속 생성 이미지. 실제 HTML 아님, 최종 승인 아님. 원작 불일치·과한 장식 가능; 승인된 단순화 보드를 우선.",
+      "bytes": 2442413,
+      "sha256": "0466ca7aaeab4ab58d5ef3b0f41fe9597e9566d47ba86c09631667339022c2e6"
+    }
+  ]
+}

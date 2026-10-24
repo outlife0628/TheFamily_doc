@@ -1,0 +1,50 @@
+﻿[
+    {
+        "path":  "prototype/movement-assets-v2/app.js",
+        "valid":  true
+    },
+    {
+        "path":  "prototype/movement-assets-v2/build-skins.mjs",
+        "valid":  true
+    },
+    {
+        "path":  "prototype/movement-assets-v2/commands.mjs",
+        "valid":  true
+    },
+    {
+        "path":  "prototype/movement-assets-v2/components.js",
+        "valid":  true
+    },
+    {
+        "path":  "prototype/movement-assets-v2/field.js",
+        "valid":  true
+    },
+    {
+        "path":  "prototype/movement-assets-v2/model.mjs",
+        "valid":  true
+    },
+    {
+        "path":  "prototype/movement-assets-v2/spatial.mjs",
+        "valid":  true
+    },
+    {
+        "path":  "prototype/movement-assets-v2/tests/commands.test.mjs",
+        "valid":  true
+    },
+    {
+        "path":  "prototype/movement-assets-v2/tests/model.test.mjs",
+        "valid":  true
+    },
+    {
+        "path":  "prototype/movement-assets-v2/tests/spatial.test.mjs",
+        "valid":  true
+    },
+    {
+        "path":  "qa/movement-assets-v2/browser-check.mjs",
+        "valid":  true
+    },
+    {
+        "path":  "qa/movement-assets-v2/verify-resources.mjs",
+        "valid":  true
+    }
+]

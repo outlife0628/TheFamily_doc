@@ -1,0 +1,62 @@
+{
+  "recorded_at": "2026-10-24T16:24:06.250551+09:00",
+  "scope": "Character design decisions only; supplements prior immutable records",
+  "prior_records": [
+    "qa/approvals/character-core-decisions-2026-10-23.json",
+    "qa/approvals/character-xp-decisions-2026-10-23.json"
+  ],
+  "approved": {
+    "xp_recipient_hp0": {
+      "exclude_at_grant": true,
+      "applies_to_battle_and_nonbattle_xp": true,
+      "does_not_restrict_providing_systems": true
+    },
+    "initial_skills": {
+      "source": "explicit_table_initial_skills_and_ranks",
+      "retroactive_level_or_event_catchup_on_first_join": false,
+      "rejoin_does_not_overwrite_current_state": true
+    },
+    "nonlevel_maximum_resource_change": {
+      "increase": "keep_current",
+      "decrease": "clamp_to_new_maximum"
+    },
+    "sp_cost": {
+      "commit": "actual_execution_start",
+      "cancel_before_execution": "no_consumption",
+      "miss_or_resist_after_execution": "no_refund"
+    },
+    "revival_recovery": {
+      "hp_and_sp": "apply_rules_configured_per_revival_item_or_facility",
+      "fixed_recovery_amounts_approved": false
+    }
+  },
+  "user_replies": [
+    {
+      "topic": "nonbattle_nonitem_xp_recipient_hp0",
+      "reply": "대상 제외"
+    },
+    {
+      "topic": "initial_skills_instead_of_retroactive_level_or_event_catchup",
+      "reply": "테이블 설정에 따라 초기값을 그대로 적용."
+    },
+    {
+      "topic": "nonlevel_maximum_hp_sp_change",
+      "reply": "승인"
+    },
+    {
+      "topic": "sp_cost_commit_and_cancel_miss_resist",
+      "reply": "승인"
+    },
+    {
+      "topic": "revival_hp_sp_rules_per_item_or_facility",
+      "reply": "승인"
+    }
+  ],
+  "not_approved_by_this_record": [
+    "Exact numeric XP curves, initial values, growth coefficients or revival amounts",
+    "Facility prices or time",
+    "Post-join chain-unlock details or special interruption refunds",
+    "Asset directions, dimensions, new art or engine integration",
+    "HTML/Godot implementation or next system"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "kind": "Document, embedded-fixture arithmetic and preservation checks only; no product implementation executed",
+  "checks": [
+    {
+      "check": "Current level cap100 and fixed first-join rule documented",
+      "passed": true
+    },
+    {
+      "check": "All systems can provide XP; battle filter applies only to battle",
+      "passed": true
+    },
+    {
+      "check": "Cap retains XP; already-MAX grants do not heal",
+      "passed": true
+    },
+    {
+      "check": "Obsolete cap/discard/source-ban policies removed",
+      "passed": true
+    },
+    {
+      "check": "Precise XP domain and nullable schema markers preserved",
+      "passed": true
+    },
+    {
+      "check": "Non-item non-battle HP0 policy explicitly pending",
+      "passed": true
+    },
+    {
+      "check": "Fixture cap5 is review-only and distinct from formal100",
+      "passed": true
+    },
+    {
+      "check": "Fixture multilevel and threshold arithmetic",
+      "passed": true
+    },
+    {
+      "check": "Fixture cap_case retains full XP",
+      "passed": true
+    },
+    {
+      "check": "Fixture already_max_case retains full XP",
+      "passed": true
+    },
+    {
+      "check": "Fixture MAX has no recovery",
+      "passed": true
+    },
+    {
+      "check": "Fixture decimal XP addition beyond JS safe integer",
+      "passed": true
+    },
+    {
+      "check": "Fixture fixed awards without redistribution",
+      "passed": true
+    },
+    {
+      "check": "Fixture KO item cases match revival-only policy",
+      "passed": true
+    },
+    {
+      "check": "Fixture fixed initial level and skill catchup proposal",
+      "passed": true
+    },
+    {
+      "check": "Fixture level-up fills recomputed HP/SP",
+      "passed": true
+    },
+    {
+      "check": "Fixture KO victory XP remains zero",
+      "passed": true
+    },
+    {
+      "check": "Current-document links resolve",
+      "passed": true
+    },
+    {
+      "check": "No stray CJK/Japanese or TODO markers",
+      "passed": true
+    },
+    {
+      "check": "All33 movement files match approved hashes",
+      "passed": true
+    },
+    {
+      "check": "Asset annex and earlier core approval unchanged",
+      "passed": true
+    },
+    {
+      "check": "New approval record retains exact Korean replies",
+      "passed": true
+    }
+  ],
+  "passed": 22,
+  "total": 22,
+  "links_checked": 52,
+  "baseline_files": 215,
+  "unchanged_existing_files": 209,
+  "modified_existing_files": [
+    "NEXT_STAGE.md",
+    "docs/character/03_Character_System_UI.md",
+    "docs/character/Character_Data_Tables.md",
+    "docs/character/Character_Review_Request.md",
+    "docs/next-stage/CURRENT_STATE.md",
+    "docs/next-stage/SYS03_Preparation.md"
+  ],
+  "byte_identical_archives": [
+    "NEXT_STAGE.md",
+    "docs/character/03_Character_System_UI.md",
+    "docs/character/Character_Data_Tables.md",
+    "docs/character/Character_Review_Request.md",
+    "docs/next-stage/CURRENT_STATE.md",
+    "docs/next-stage/SYS03_Preparation.md"
+  ],
+  "movement_files_unchanged": 33,
+  "runtime_tests_executed": 0,
+  "browser_tests_executed": 0,
+  "screenshots_captured": 0,
+  "engine_integration_tests_executed": 0,
+  "remaining": [
+    "Non-item non-battle XP eligibility for HP0",
+    "Initial skill catch-up and other unapproved details"
+  ]
+}

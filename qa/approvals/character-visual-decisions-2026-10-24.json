@@ -1,0 +1,56 @@
+{
+  "recorded_at": "2026-10-24T16:32:04.096596+09:00",
+  "scope": "Character visual design decisions; no image production or HTML/engine implementation",
+  "approved": {
+    "field_display_directions": 8,
+    "field_source_directions_per_semantic": 5,
+    "field_mirrored_directions_per_semantic": 3,
+    "unmirrored_directions": [
+      "front",
+      "back"
+    ],
+    "mirror_pairs": [
+      [
+        "left",
+        "right"
+      ],
+      [
+        "front_left",
+        "front_right"
+      ],
+      [
+        "back_left",
+        "back_right"
+      ]
+    ],
+    "source_side": "Either member of each pair, explicitly selected in tables",
+    "character_information_portrait": "Dedicated illustration produced separately from field pixel sprite"
+  },
+  "user_replies": [
+    {
+      "topic": "field_sprite_eight_directions",
+      "reply": "8방향으로 승인"
+    },
+    {
+      "topic": "one_side_source_and_mirrored_opposite",
+      "reply": "반전 허용, 반전을 좌 또는 우측 방향만 만들고 반대쪽은 반전하여 사용."
+    },
+    {
+      "topic": "character_information_portrait",
+      "reply": "전용 일러스트"
+    }
+  ],
+  "not_approved_by_this_record": [
+    "Final sprite size, animation/frame counts, illustration composition or expressions",
+    "Menu-icon portrait cropping or dedicated-icon production policy",
+    "Battle sprite directions/actions",
+    "Actual generated art or asset delivery",
+    "HTML/Godot implementation or next system"
+  ],
+  "remaining_decisions": [
+    "Menu-icon source",
+    "Sprite dimensions and animation details",
+    "Portrait composition and expressions",
+    "Remaining numeric and technical design details"
+  ]
+}

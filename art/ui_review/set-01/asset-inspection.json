@@ -1,0 +1,245 @@
+[
+  {
+    "file": "01-button-primary-gold.png",
+    "sha256": "042834010f4694db20d1b7ac71ec2d86df8470e4f8e5f10fdb73ef57511ff6a7",
+    "width": 2172,
+    "height": 724,
+    "depth": 8,
+    "colorType": 6,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 962229,
+    "partialAlphaPixels": 610173,
+    "nonzeroPixels": 610299,
+    "centerAlpha": 253,
+    "contentBounds": [
+      41,
+      37,
+      2077,
+      640
+    ],
+    "visibleBoundsAtAlpha128": [
+      98,
+      198,
+      2073,
+      505
+    ],
+    "saturatedRedPixelsAtAlpha128": 0
+  },
+  {
+    "file": "02-button-secondary-charcoal.png",
+    "sha256": "9d6643bc018f3be7d353aa79210b5c135a69494c19f483beb700e4207bc47c02",
+    "width": 2172,
+    "height": 724,
+    "depth": 8,
+    "colorType": 6,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 949843,
+    "partialAlphaPixels": 622260,
+    "nonzeroPixels": 622685,
+    "centerAlpha": 253,
+    "contentBounds": [
+      57,
+      23,
+      2078,
+      686
+    ],
+    "visibleBoundsAtAlpha128": [
+      98,
+      193,
+      2074,
+      506
+    ],
+    "saturatedRedPixelsAtAlpha128": 0
+  },
+  {
+    "file": "03-panel-parchment.png",
+    "sha256": "411c66db08ff7ae6a375a6b59b2f335cb2d7d168a2e0bf90350142b4a189e41c",
+    "width": 1086,
+    "height": 1448,
+    "depth": 8,
+    "colorType": 6,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 363014,
+    "partialAlphaPixels": 1208612,
+    "nonzeroPixels": 1209514,
+    "centerAlpha": 253,
+    "contentBounds": [
+      63,
+      53,
+      1021,
+      1448
+    ],
+    "visibleBoundsAtAlpha128": [
+      71,
+      93,
+      1015,
+      1354
+    ],
+    "saturatedRedPixelsAtAlpha128": 0
+  },
+  {
+    "file": "04-dialog-shell.png",
+    "sha256": "b926483a5189d55322fa48afb145373cc42b557c3eeab763cdb0ab8934d060e5",
+    "width": 1683,
+    "height": 935,
+    "depth": 8,
+    "colorType": 6,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 314056,
+    "partialAlphaPixels": 1258154,
+    "nonzeroPixels": 1259549,
+    "centerAlpha": 253,
+    "contentBounds": [
+      47,
+      2,
+      1639,
+      935
+    ],
+    "visibleBoundsAtAlpha128": [
+      57,
+      74,
+      1626,
+      858
+    ],
+    "saturatedRedPixelsAtAlpha128": 0
+  },
+  {
+    "file": "05-panel-dark.png",
+    "sha256": "d762c20ff5b11c05ef73746a830b9e26c9e8e54f10b686d0fc47fd75511f052d",
+    "width": 1860,
+    "height": 846,
+    "depth": 8,
+    "colorType": 6,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 525873,
+    "partialAlphaPixels": 1047511,
+    "nonzeroPixels": 1047687,
+    "centerAlpha": 253,
+    "contentBounds": [
+      0,
+      4,
+      1842,
+      846
+    ],
+    "visibleBoundsAtAlpha128": [
+      64,
+      122,
+      1796,
+      705
+    ],
+    "saturatedRedPixelsAtAlpha128": 0
+  },
+  {
+    "file": "06-minimap-frame.png",
+    "sha256": "b5554f8c0575689ab9945832224ae6b651778ba8a31c5317334b95423fb06745",
+    "width": 1254,
+    "height": 1254,
+    "depth": 8,
+    "colorType": 6,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 1413124,
+    "partialAlphaPixels": 158860,
+    "nonzeroPixels": 159392,
+    "centerAlpha": 0,
+    "contentBounds": [
+      0,
+      22,
+      1238,
+      1230
+    ],
+    "visibleBoundsAtAlpha128": [
+      77,
+      66,
+      1178,
+      1157
+    ],
+    "saturatedRedPixelsAtAlpha128": 0
+  },
+  {
+    "file": "07-objective-card.png",
+    "sha256": "aa9f4f850586b9ea196f12cad7ec736a56d4e5a7b4d5e6cfef73b5ea7953c8cc",
+    "width": 2022,
+    "height": 778,
+    "depth": 8,
+    "colorType": 6,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 859967,
+    "partialAlphaPixels": 713115,
+    "nonzeroPixels": 713149,
+    "centerAlpha": 253,
+    "contentBounds": [
+      0,
+      7,
+      1960,
+      713
+    ],
+    "visibleBoundsAtAlpha128": [
+      66,
+      190,
+      1956,
+      544
+    ],
+    "saturatedRedPixelsAtAlpha128": 0
+  },
+  {
+    "file": "08-compass-line-v3.png",
+    "sha256": "0fbc59de19c6b427cb9da0c3c2cd12c5818229f12393051e03e93bf61e623467",
+    "width": 1254,
+    "height": 1254,
+    "depth": 8,
+    "colorType": 6,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 1478828,
+    "partialAlphaPixels": 93583,
+    "nonzeroPixels": 93688,
+    "centerAlpha": 0,
+    "contentBounds": [
+      65,
+      82,
+      1186,
+      1254
+    ],
+    "visibleBoundsAtAlpha128": [
+      168,
+      167,
+      1084,
+      1095
+    ],
+    "saturatedRedPixelsAtAlpha128": 2
+  },
+  {
+    "file": "08-compass.png",
+    "sha256": "19fc128b9ae9ed802451ac9f483c72e1a3b9d26ed00e6c74db3d26abfeb37d42",
+    "width": 1254,
+    "height": 1254,
+    "depth": 8,
+    "colorType": 6,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 1344737,
+    "partialAlphaPixels": 226968,
+    "nonzeroPixels": 227779,
+    "centerAlpha": 253,
+    "contentBounds": [
+      33,
+      17,
+      1238,
+      1188
+    ],
+    "visibleBoundsAtAlpha128": [
+      128,
+      120,
+      1126,
+      1119
+    ],
+    "saturatedRedPixelsAtAlpha128": 107
+  }
+]

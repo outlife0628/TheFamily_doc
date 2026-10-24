@@ -1,0 +1,105 @@
+{
+  "kind": "Document and synthetic metadata checks only",
+  "passed": 20,
+  "total": 20,
+  "checks": [
+    {
+      "check": "Approved portrait UI reference and display dimensions",
+      "passed": true
+    },
+    {
+      "check": "Portrait composition delegated to art designer",
+      "passed": true
+    },
+    {
+      "check": "Equipment retains field and portrait base appearance",
+      "passed": true
+    },
+    {
+      "check": "Old undecided icon-reuse statements removed",
+      "passed": true
+    },
+    {
+      "check": "Menu icon and portrait bind designated regions",
+      "passed": true
+    },
+    {
+      "check": "Face and portrait share source file/revision",
+      "passed": true
+    },
+    {
+      "check": "Face crop lies inside portrait region",
+      "passed": true
+    },
+    {
+      "check": "Portrait and cropped face use painted-ui import",
+      "passed": true
+    },
+    {
+      "check": "UI display dimensions independent of synthetic source pixels",
+      "passed": true
+    },
+    {
+      "check": "Region revision references and bounds valid",
+      "passed": true
+    },
+    {
+      "check": "UI file-sharing covers actor and definition icon roots",
+      "passed": true
+    },
+    {
+      "check": "Synthetic buffer estimate remains consistent",
+      "passed": true
+    },
+    {
+      "check": "Approved8direction5source3mirror policy preserved",
+      "passed": true
+    },
+    {
+      "check": "No physical artwork/direction delivery claimed",
+      "passed": true
+    },
+    {
+      "check": "Current-document links resolve",
+      "passed": true
+    },
+    {
+      "check": "No stray CJK/Japanese or unfinished markers",
+      "passed": true
+    },
+    {
+      "check": "33approved movement files unchanged",
+      "passed": true
+    },
+    {
+      "check": "6scoped edits have byte-identical archived originals",
+      "passed": true
+    },
+    {
+      "check": "Numeric-resource annex remains unchanged",
+      "passed": true
+    },
+    {
+      "check": "New approval record preserves exact user instruction",
+      "passed": true
+    }
+  ],
+  "links_checked": 64,
+  "baseline_files": 245,
+  "unchanged_existing_files": 239,
+  "modified_existing_files": [
+    "NEXT_STAGE.md",
+    "docs/character/03_Character_System_UI.md",
+    "docs/character/Character_Asset_Tables.md",
+    "docs/character/Character_Review_Request.md",
+    "docs/next-stage/CURRENT_STATE.md",
+    "docs/next-stage/SYS03_Preparation.md"
+  ],
+  "byte_identical_archives": 6,
+  "approved_movement_files_unchanged": 33,
+  "physical_art_created": 0,
+  "runtime_tests_executed": 0,
+  "browser_tests_executed": 0,
+  "engine_tests_executed": 0,
+  "screenshots": 0
+}

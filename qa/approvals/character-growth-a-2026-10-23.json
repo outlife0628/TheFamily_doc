@@ -1,0 +1,21 @@
+﻿{
+    "recorded_at":  "2026-10-23T19:29:52+09:00",
+    "user_instruction":  "확인해보니, 캐릭터의 게임내 에셋 예를 들어 스프라이트, 아이콘 등의 자원관리 하는 테이블 내용이 빠져 있어, 성장 방식은 권고안으로 진행하고, 에셋 관련된 관리 테이블 추가해서 다시 검토 요청해.",
+    "approved_choice":  "A",
+    "approved_scope":  [
+                           "Individual character levels",
+                           "Per-character stat growth tables",
+                           "Skill acquisition by level or event conditions"
+                       ],
+    "recommendation_snapshot":  {
+                                    "path":  "archive/2026-10-23-character-assets-design/docs/character/03_Character_System_UI.md",
+                                    "sha256":  "2ccdf2936b257e00d41fc2f92c8c25a0b7a7f67ca826affc7c420d3f0501134d"
+                                },
+    "not_bulk_approved":  [
+                              "Final level cap and XP balance/reward eligibility",
+                              "Six-stat list and coefficients",
+                              "HP/SP selection and detailed recovery/HP-zero policies",
+                              "Character asset schema, artwork or engine implementation"
+                          ],
+    "requested_work":  "Add game asset management tables and resubmit the design for review"
+}

@@ -1,0 +1,254 @@
+﻿[
+    {
+        "path":  "MOVEMENT_ASSET_HTML.md",
+        "bytes":  1214
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/CHANGELOG.md",
+        "bytes":  1022
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/MOVEMENT_README.md",
+        "bytes":  525
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/UI_ASSET_REVIEW.md",
+        "bytes":  794
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/art/ui_review/set-01/MANIFEST.json",
+        "bytes":  2174
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/art/ui_review/set-01/README.md",
+        "bytes":  4091
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/art/ui_review/set-01/VALIDATION.md",
+        "bytes":  2127
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/docs/CURRENT_STATE.md",
+        "bytes":  1903
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/docs/Movement_System_UI.md",
+        "bytes":  3314
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/docs/README.md",
+        "bytes":  981
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/docs/UI_Asset_Review_Stage.md",
+        "bytes":  2087
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/docs/UI_Concept_Baseline.md",
+        "bytes":  1974
+    },
+    {
+        "path":  "archive/2026-10-23-pre-asset-html/docs/UI_Production_Guidelines.md",
+        "bytes":  3300
+    },
+    {
+        "path":  "docs/movement-assets-v2/Movement_System_UI.md",
+        "bytes":  3487
+    },
+    {
+        "path":  "docs/movement-assets-v2/README.md",
+        "bytes":  1682
+    },
+    {
+        "path":  "docs/movement-assets-v2/UI_Production_Guidelines.md",
+        "bytes":  4153
+    },
+    {
+        "path":  "prototype/movement-assets-v2/app.js",
+        "bytes":  31120
+    },
+    {
+        "path":  "prototype/movement-assets-v2/art-skin.css",
+        "bytes":  10859
+    },
+    {
+        "path":  "prototype/movement-assets-v2/build-skins.mjs",
+        "bytes":  2036
+    },
+    {
+        "path":  "prototype/movement-assets-v2/commands.mjs",
+        "bytes":  497
+    },
+    {
+        "path":  "prototype/movement-assets-v2/components.js",
+        "bytes":  5286
+    },
+    {
+        "path":  "prototype/movement-assets-v2/field.js",
+        "bytes":  12605
+    },
+    {
+        "path":  "prototype/movement-assets-v2/index.html",
+        "bytes":  703
+    },
+    {
+        "path":  "prototype/movement-assets-v2/model.mjs",
+        "bytes":  5076
+    },
+    {
+        "path":  "prototype/movement-assets-v2/README.md",
+        "bytes":  4848
+    },
+    {
+        "path":  "prototype/movement-assets-v2/spatial.mjs",
+        "bytes":  1233
+    },
+    {
+        "path":  "prototype/movement-assets-v2/styles.css",
+        "bytes":  16973
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/skin-manifest.json",
+        "bytes":  2901
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/world_map_source.png",
+        "bytes":  4057267
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/skins/button-charcoal.svg",
+        "bytes":  1390920
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/skins/button-gold.svg",
+        "bytes":  1284472
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/skins/compass.svg",
+        "bytes":  420448
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/skins/dark.svg",
+        "bytes":  2022252
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/skins/dialog.svg",
+        "bytes":  2671275
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/skins/minimap.svg",
+        "bytes":  626138
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/skins/objective.svg",
+        "bytes":  1235848
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/skins/parchment.svg",
+        "bytes":  2896736
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/ui/01-button-primary-gold.png",
+        "bytes":  963194
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/ui/02-button-secondary-charcoal.png",
+        "bytes":  1043029
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/ui/03-panel-parchment.png",
+        "bytes":  2172392
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/ui/04-dialog-shell.png",
+        "bytes":  2003296
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/ui/05-panel-dark.png",
+        "bytes":  1516528
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/ui/06-minimap-frame.png",
+        "bytes":  469442
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/ui/07-objective-card.png",
+        "bytes":  926727
+    },
+    {
+        "path":  "prototype/movement-assets-v2/assets/ui/08-compass-line-v3.png",
+        "bytes":  315175
+    },
+    {
+        "path":  "prototype/movement-assets-v2/data/review_data.json",
+        "bytes":  3718
+    },
+    {
+        "path":  "prototype/movement-assets-v2/tests/commands.test.mjs",
+        "bytes":  1446
+    },
+    {
+        "path":  "prototype/movement-assets-v2/tests/model.test.mjs",
+        "bytes":  6452
+    },
+    {
+        "path":  "prototype/movement-assets-v2/tests/spatial.test.mjs",
+        "bytes":  1984
+    },
+    {
+        "path":  "qa/movement-assets-v2/browser-check.mjs",
+        "bytes":  16417
+    },
+    {
+        "path":  "qa/movement-assets-v2/browser-results.json",
+        "bytes":  5096
+    },
+    {
+        "path":  "qa/movement-assets-v2/EXECUTION.md",
+        "bytes":  2463
+    },
+    {
+        "path":  "qa/movement-assets-v2/model-results.txt",
+        "bytes":  3848
+    },
+    {
+        "path":  "qa/movement-assets-v2/pre-existing-files.json",
+        "bytes":  18016
+    },
+    {
+        "path":  "qa/movement-assets-v2/REPORT.md",
+        "bytes":  4995
+    },
+    {
+        "path":  "qa/movement-assets-v2/resource-results.json",
+        "bytes":  15673
+    },
+    {
+        "path":  "qa/movement-assets-v2/review-regression-red.txt",
+        "bytes":  5676
+    },
+    {
+        "path":  "qa/movement-assets-v2/REVIEW.md",
+        "bytes":  1438
+    },
+    {
+        "path":  "qa/movement-assets-v2/syntax-results.json",
+        "bytes":  1250
+    },
+    {
+        "path":  "qa/movement-assets-v2/verify-resources.mjs",
+        "bytes":  3620
+    },
+    {
+        "path":  "qa/movement-assets-v2/chrome/browser-results.json",
+        "bytes":  5096
+    },
+    {
+        "path":  "qa/movement-assets-v2/edge/browser-results.json",
+        "bytes":  5829
+    },
+    {
+        "path":  "qa/movement-assets-v2/screenshots/README.md",
+        "bytes":  492
+    }
+]

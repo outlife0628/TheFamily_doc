@@ -1,0 +1,74 @@
+{
+  "status": "user_review_pending",
+  "stage": "Generate UI art components, obtain user asset review, then resume HTML work",
+  "toolMode": "built-in image_gen; no CLI",
+  "reference": "reference/art/approved_direction/simplified_movement_concept.png",
+  "components": [
+    {
+      "id": "01",
+      "file": "01-button-primary-gold.png",
+      "approval": "pending",
+      "productionReady": false,
+      "notes": "Final size, slicing and state variations not validated"
+    },
+    {
+      "id": "02",
+      "file": "02-button-secondary-charcoal.png",
+      "approval": "pending",
+      "productionReady": false,
+      "notes": "Final size, slicing and state variations not validated"
+    },
+    {
+      "id": "03",
+      "file": "03-panel-parchment.png",
+      "approval": "pending",
+      "productionReady": false,
+      "notes": "Final size, slicing and state variations not validated"
+    },
+    {
+      "id": "04",
+      "file": "04-dialog-shell.png",
+      "approval": "pending",
+      "productionReady": false,
+      "notes": "Final size, slicing and state variations not validated"
+    },
+    {
+      "id": "05",
+      "file": "05-panel-dark.png",
+      "approval": "pending",
+      "productionReady": false,
+      "notes": "Final size, slicing and state variations not validated"
+    },
+    {
+      "id": "06",
+      "file": "06-minimap-frame.png",
+      "approval": "pending",
+      "productionReady": false,
+      "notes": "Final size, slicing and state variations not validated"
+    },
+    {
+      "id": "07",
+      "file": "07-objective-card.png",
+      "approval": "pending",
+      "productionReady": false,
+      "notes": "Final size, slicing and state variations not validated"
+    },
+    {
+      "id": "08",
+      "file": "08-compass.png",
+      "approval": "pending",
+      "productionReady": false,
+      "notes": "Compass A, alpha edge color contamination still requires cleanup"
+    }
+  ],
+  "extraVariants": [
+    {
+      "id": "08-B",
+      "file": "08-compass-line-v3.png",
+      "approval": "pending",
+      "productionReady": false,
+      "notes": "Thin line form variant; edge cleanup still pending"
+    }
+  ],
+  "htmlCssJavaScriptChanges": 0
+}

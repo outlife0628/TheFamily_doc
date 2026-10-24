@@ -1,0 +1,45 @@
+{
+  "recorded_at": "2026-10-24T16:51:02.529090+09:00",
+  "scope": "Character design decisions only; supplements earlier immutable visual decision record",
+  "prior_record": "qa/approvals/character-visual-decisions-2026-10-24.json",
+  "approved": {
+    "menu_face_icon": "Use a designated face region from the dedicated portrait illustration",
+    "equipment_appearance": {
+      "field_sprite": "keep_base",
+      "portrait": "keep_base"
+    },
+    "portrait_composition_owner": "art_designer",
+    "portrait_ui_display_area": {
+      "reference_width_px": 1920,
+      "reference_height_px": 1080,
+      "width_px": 320,
+      "height_px": 400,
+      "source_image_resolution_is_independent": true
+    }
+  },
+  "user_replies": [
+    {
+      "topic": "face_icon_from_portrait_region",
+      "reply": "승인"
+    },
+    {
+      "topic": "equipment_change_keeps_base_appearance",
+      "reply": "기본 유지"
+    },
+    {
+      "topic": "portrait_composition_and_ui_area",
+      "reply": "아트 디자이너가 결정, 초상화의 영역 크기만 정의."
+    },
+    {
+      "topic": "portrait_display_area_320_by_400_at_1920_by_1080",
+      "reply": "승인"
+    }
+  ],
+  "not_approved_by_this_record": [
+    "Specific portrait composition, body framing or source-file dimensions",
+    "Actual illustration/sprite production or delivery",
+    "Final sprite dimensions, animation/frame counts or expressions",
+    "Other character system policies or balance numbers",
+    "HTML/Godot implementation or next system"
+  ]
+}

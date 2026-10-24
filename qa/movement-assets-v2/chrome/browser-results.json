@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-23T03:17:05.282Z",
+  "base": "http://127.0.0.1:8081",
+  "browserExe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "successes": [],
+  "failures": [
+    {
+      "name": "browser setup or flow",
+      "error": "Error: CDP timeout: Page.enable\n    at Timeout._onTimeout (file:///D:/BG/TheFamily_doc/qa/movement-assets-v2/browser-check.mjs:25:62)\n    at listOnTimeout (node:internal/timers:685:17)\n    at process.processTimers (node:internal/timers:618:7)"
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "diagnostics": [
+    {
+      "send": "Target.createTarget",
+      "id": 1,
+      "session": null
+    },
+    {
+      "receive": "response",
+      "id": 1
+    },
+    {
+      "send": "Target.getTargets",
+      "id": 2,
+      "session": null
+    },
+    {
+      "receive": "response",
+      "id": 2
+    },
+    {
+      "targets": {
+        "targetInfos": [
+          {
+            "targetId": "1C6CA558BB0657D174DEE86ABBE71D66",
+            "type": "service_worker",
+            "title": "Service Worker chrome-extension://fignfifoniblkonapihmkfakmlgkbkcf/service_worker.js",
+            "url": "chrome-extension://fignfifoniblkonapihmkfakmlgkbkcf/service_worker.js",
+            "attached": false,
+            "canAccessOpener": false,
+            "browserContextId": "F057316401F724C5699BCA5C92E8027E"
+          },
+          {
+            "targetId": "81C826A86B8FEB7D3BA526AE00AB008F",
+            "type": "page",
+            "title": "",
+            "url": "about:blank",
+            "attached": false,
+            "canAccessOpener": false,
+            "browserContextId": "F057316401F724C5699BCA5C92E8027E"
+          },
+          {
+            "targetId": "B7E56684707B67D0B80DB54F78782E5B",
+            "type": "browser_ui",
+            "title": "",
+            "url": "chrome://omnibox-popup.top-chrome/omnibox_popup_aim.html",
+            "attached": false,
+            "canAccessOpener": false,
+            "browserContextId": "F057316401F724C5699BCA5C92E8027E"
+          },
+          {
+            "targetId": "8341F92FED63506630BC38FFF133E7E2",
+            "type": "browser_ui",
+            "title": "",
+            "url": "chrome://omnibox-popup.top-chrome/",
+            "attached": false,
+            "canAccessOpener": false,
+            "browserContextId": "F057316401F724C5699BCA5C92E8027E"
+          },
+          {
+            "targetId": "0CD1CDB80830411151317606E6C66B4B",
+            "type": "page",
+            "title": "",
+            "url": "about:blank",
+            "attached": false,
+            "canAccessOpener": false,
+            "browserContextId": "F057316401F724C5699BCA5C92E8027E"
+          }
+        ]
+      }
+    },
+    {
+      "send": "SystemInfo.getProcessInfo",
+      "id": 3,
+      "session": null
+    },
+    {
+      "receive": "response",
+      "id": 3
+    },
+    {
+      "processes": {
+        "processInfo": [
+          {
+            "type": "browser",
+            "id": 448908,
+            "cpuTime": 0.927114
+          },
+          {
+            "type": "network.mojom.NetworkService",
+            "id": 315848,
+            "cpuTime": 0.109282
+          }
+        ]
+      }
+    },
+    {
+      "send": "Target.attachToTarget",
+      "id": 4,
+      "session": null
+    },
+    {
+      "receive": "Target.attachedToTarget"
+    },
+    {
+      "receive": "response",
+      "id": 4
+    },
+    {
+      "send": "Page.enable",
+      "id": 5,
+      "session": "B01146B430655E1A8C85DC490D07251A"
+    }
+  ],
+  "chromeLog": "[448908:450128:1023/121652.950:ERROR:components\\os_crypt\\async\\browser\\os_crypt_win.cc:63] Failed to encrypt: 지정된 파일을 찾을 수 없습니다. (0x2)\r\n[448908:451388:1023/121652.986:ERROR:chrome\\installer\\util\\google_update_settings_win.cc:270] Failed opening key Software\\Google\\Update\\ClientStateMedium\\{8A69D345-D564-463c-AFF1-A69D9E530F96} to set usagestats; result: 5\r\n[448908:450128:1023/121652.990:INFO:components\\enterprise\\browser\\controller\\chrome_browser_cloud_management_controller.cc:241] No machine level policy manager exists.\r\n[448908:271972:1023/121653.049:ERROR:components\\password_manager\\core\\browser\\password_store\\login_database_async_helper.cc:100] Encryption is not available.\r\n\r\nDevTools listening on ws://127.0.0.1:50125/devtools/browser/647fcf1b-1dc5-4c00-a6c7-fef2e7bbdc95\r\n[448908:453532:1023/121653.056:ERROR:components\\password_manager\\core\\browser\\password_store\\login_database_async_helper.cc:100] Encryption is not available.\r\n[448908:450128:1023/121653.174:WARNING:chrome\\browser\\extensions\\external_registry_loader_win.cc:236] Error observing HKLM: 액세스가 거부되었습니다. (0x5)\r\n[448908:450128:1023/121653.174:WARNING:chrome\\browser\\extensions\\external_registry_loader_win.cc:247] Error observing HKCU: 액세스가 거부되었습니다. (0x5)\r\n[448908:452820:1023/121653.231:ERROR:services\\device\\public\\cpp\\geolocation\\system_geolocation_source_win.cc:124] Failed to create IAppCapability: 액세스가 거부되었습니다. (0x80070005)\r\n"
+}

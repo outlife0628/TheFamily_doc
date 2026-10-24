@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-23T10:30:42.528Z",
+  "scope": "Synthetic asset metadata and document checks only",
+  "checks": [
+    {
+      "name": "synthetic-only fixture and no physical delivery",
+      "passed": true
+    },
+    {
+      "name": "registry, revision and import references",
+      "passed": true
+    },
+    {
+      "name": "atlas rectangles, trim and source canvas geometry",
+      "passed": true
+    },
+    {
+      "name": "visual pivots and display scale",
+      "passed": true
+    },
+    {
+      "name": "character and base appearance references",
+      "passed": true
+    },
+    {
+      "name": "typed character asset bindings and duplicate keys",
+      "passed": true
+    },
+    {
+      "name": "animation set, direction and clip uniqueness",
+      "passed": true
+    },
+    {
+      "name": "frame references, continuous indices, positive durations and body canvas",
+      "passed": true
+    },
+    {
+      "name": "declared fixture field context coverage",
+      "passed": true
+    },
+    {
+      "name": "out-of-bounds region example rejected",
+      "passed": true
+    },
+    {
+      "name": "missing directional animation example rejected",
+      "passed": true
+    },
+    {
+      "name": "movement frame timing arithmetic",
+      "passed": true
+    },
+    {
+      "name": "body frames resolve to one shared file revision",
+      "passed": true
+    },
+    {
+      "name": "definition icons join the character UI loading roots",
+      "passed": true
+    },
+    {
+      "name": "required icon null rejected and optional role icon accepted",
+      "passed": true
+    },
+    {
+      "name": "RGBA8 size estimates match synthetic dimensions",
+      "passed": true
+    },
+    {
+      "name": "lease reference-count example arithmetic",
+      "passed": true
+    },
+    {
+      "name": "missing physical files and approvals prevent production readiness",
+      "passed": true
+    },
+    {
+      "name": "RPG numerical fixture preserved verbatim by value",
+      "passed": true
+    },
+    {
+      "name": "seven active documents have valid local links",
+      "passed": true
+    },
+    {
+      "name": "only six requested documents changed and their old bytes archived",
+      "passed": true
+    },
+    {
+      "name": "approved movement implementation preserved",
+      "passed": true
+    },
+    {
+      "name": "growth A approval is scoped and preserves recommendation evidence",
+      "passed": true
+    }
+  ],
+  "runtimeTestsExecuted": 0,
+  "actualImagesDecoded": 0,
+  "productionResourcesReady": false,
+  "expectedProductionBlockers": [
+    "No physical files",
+    "No content checksums",
+    "Not artwork-approved"
+  ],
+  "localLinksChecked": 52,
+  "preservation": {
+    "previousFiles": 192,
+    "unchanged": 186,
+    "requestedDocumentsChanged": 6,
+    "archivedOriginalsMatch": 6
+  },
+  "approvedMovementFilesUnchanged": 33,
+  "passed": true
+}

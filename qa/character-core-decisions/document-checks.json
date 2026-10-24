@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-23T11:03:14.987Z",
+  "runtimeTestsExecuted": 0,
+  "links": 48,
+  "preservation": {
+    "before": 205,
+    "unchanged": 199,
+    "modified": 6,
+    "archived": 6
+  },
+  "approvedMovementFilesUnchanged": 33,
+  "checks": [
+    {
+      "name": "six stats and resource approval scope",
+      "passed": true
+    },
+    {
+      "name": "level-up full recovery values",
+      "passed": true
+    },
+    {
+      "name": "battle end with no level keeps remaining resources",
+      "passed": true
+    },
+    {
+      "name": "knockout does not gain victory XP or level",
+      "passed": true
+    },
+    {
+      "name": "maximum-only examples are not level-up cases",
+      "passed": true
+    },
+    {
+      "name": "active links",
+      "passed": true
+    },
+    {
+      "name": "only six scoped documents modified and archived originals match",
+      "passed": true
+    },
+    {
+      "name": "approved movement source preserved",
+      "passed": true
+    }
+  ],
+  "passed": true
+}

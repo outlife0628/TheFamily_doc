@@ -1,0 +1,29 @@
+{
+  "reviewOnly": true,
+  "notice": "도시 배치·노선·기간·비용·화물·스프라이트는 UI 시험 데이터입니다. Map Tool 미연동.",
+  "start": { "location": "sydria", "money": 2400, "cargo": 18, "transport": "cart" },
+  "actors": [
+    { "id": "chris", "name": "크리스", "coat": "#47788a", "hair": "#9a6c41" },
+    { "id": "bram", "name": "브람 하르트", "coat": "#9c7047", "hair": "#593f30" },
+    { "id": "eliana", "name": "엘리아나 베일", "coat": "#62816d", "hair": "#d0c8a2" },
+    { "id": "oliver", "name": "올리버 크로포드", "coat": "#736783", "hair": "#4d4542" }
+  ],
+  "locations": [
+    { "id": "sydria", "name": "시드리아", "shortName": "시드리아", "type": "세 종족 공동도시", "u": 0.335, "v": 0.442, "public": true, "description": "세 종족이 함께 살아가는 공동도시. 현재 파티의 출발 거점입니다." },
+    { "id": "human", "name": "인간 도시 · 시험 지점", "shortName": "인간 도시", "type": "육상 노선 · 검토 배치", "u": 0.543, "v": 0.305, "public": true, "description": "육상 이동의 선택·정차·도착을 확인하는 공개 시험 목적지입니다. 정식 지명과 위치는 미정입니다." },
+    { "id": "dwarf", "name": "드워프 도시 · 시험 지점", "shortName": "드워프 도시", "type": "육상 노선 · 검토 배치", "u": 0.655, "v": 0.51, "public": true, "description": "다른 기간과 운임을 비교하는 공개 시험 목적지입니다. 실제 노선과 경제 수치는 확정하지 않습니다." },
+    { "id": "elf", "name": "엘프 도시 · 시험 지점", "shortName": "엘프 도시", "type": "공개된 이용 불가 노선", "u": 0.499, "v": 0.735, "public": true, "description": "공개된 통행 불가 사유를 확인하는 시험 지점입니다. 미공개 시나리오 조건은 포함하지 않습니다." },
+    { "id": "port", "name": "항만 · 시험 지점", "shortName": "항만", "type": "항로 수단 조건 검토", "u": 0.877, "v": 0.79, "public": true, "description": "노선에 맞지 않는 이동수단과 미보유 수단 안내를 확인하는 시험 지점입니다." }
+  ],
+  "routes": [
+    { "id": "road-human", "from": "sydria", "to": "human", "kind": "road", "days": 3, "cost": 120, "stopDay": 1, "open": true, "public": true, "stopName": "노선 중간 정차 지점", "points": [[0.335,0.442],[0.399,0.412],[0.464,0.35],[0.543,0.305]] },
+    { "id": "road-dwarf", "from": "sydria", "to": "dwarf", "kind": "road", "days": 4, "cost": 180, "stopDay": 2, "open": true, "public": true, "stopName": "노선 중간 정차 지점", "points": [[0.335,0.442],[0.446,0.477],[0.535,0.506],[0.655,0.51]] },
+    { "id": "road-elf", "from": "sydria", "to": "elf", "kind": "road", "days": 5, "cost": 240, "stopDay": 2, "open": false, "public": true, "reason": "공개 시험 노선의 통행이 중단되어 있습니다.", "stopName": "정차 지점", "points": [[0.335,0.442],[0.406,0.598],[0.499,0.735]] },
+    { "id": "air-port", "from": "sydria", "to": "port", "kind": "air", "days": 2, "cost": 300, "stopDay": 1, "open": true, "public": true, "stopName": "노선 중간 정차 지점", "points": [[0.335,0.442],[0.6,0.65],[0.877,0.79]] }
+  ],
+  "transports": [
+    { "id": "cart", "name": "마차", "capacity": 40, "kinds": ["road"], "owned": true, "note": "현재 파티에 배정된 시험 수단" },
+    { "id": "foot", "name": "도보 · 보부상", "capacity": 12, "kinds": ["road"], "owned": true, "note": "시험 화물 18칸에 비해 수송량 부족" },
+    { "id": "airship", "name": "비공정", "capacity": 100, "kinds": ["air"], "owned": false, "note": "미보유 · 이번 목업에서 구매하지 않음" }
+  ]
+}

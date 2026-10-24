@@ -1,0 +1,112 @@
+{
+  "kind": "Document and synthetic-fixture checks only",
+  "passed": 22,
+  "total": 22,
+  "checks": [
+    {
+      "check": "Initial HP/SP table replaces full-spawn policy",
+      "passed": true
+    },
+    {
+      "check": "Initialization distinct from level-up/rejoin",
+      "passed": true
+    },
+    {
+      "check": "Gameplay result keeps cost; system errors separate",
+      "passed": true
+    },
+    {
+      "check": "Post-join chain approved in same operation",
+      "passed": true
+    },
+    {
+      "check": "Obsolete pending policies removed",
+      "passed": true
+    },
+    {
+      "check": "Initial resource fixture copies configured values within caps",
+      "passed": true
+    },
+    {
+      "check": "Initial HP0 fixture stays zero",
+      "passed": true
+    },
+    {
+      "check": "Above-maximum initialization is error",
+      "passed": true
+    },
+    {
+      "check": "SP fixture covers6outcomes with correct arithmetic",
+      "passed": true
+    },
+    {
+      "check": "Reverse-ordered dependent fixture closes within same operation",
+      "passed": true
+    },
+    {
+      "check": "First-join skills remain explicit",
+      "passed": true
+    },
+    {
+      "check": "Shared XP and visibility policies preserved",
+      "passed": true
+    },
+    {
+      "check": "XP cap keeps full awards",
+      "passed": true
+    },
+    {
+      "check": "Actual level-up still fills resources",
+      "passed": true
+    },
+    {
+      "check": "Nullable schema markers preserved",
+      "passed": true
+    },
+    {
+      "check": "Current-document links resolve",
+      "passed": true
+    },
+    {
+      "check": "No stray CJK/Japanese or unfinished markers",
+      "passed": true
+    },
+    {
+      "check": "Integrated review and trial status explicit",
+      "passed": true
+    },
+    {
+      "check": "33movement files match approved hashes",
+      "passed": true
+    },
+    {
+      "check": "6scoped edits have exact archived originals",
+      "passed": true
+    },
+    {
+      "check": "Asset-management annex unchanged",
+      "passed": true
+    },
+    {
+      "check": "Exact approval replies preserved",
+      "passed": true
+    }
+  ],
+  "links_checked": 67,
+  "baseline_files": 265,
+  "unchanged_existing_files": 259,
+  "modified_existing_files": [
+    "NEXT_STAGE.md",
+    "docs/character/03_Character_System_UI.md",
+    "docs/character/Character_Data_Tables.md",
+    "docs/character/Character_Review_Request.md",
+    "docs/next-stage/CURRENT_STATE.md",
+    "docs/next-stage/SYS03_Preparation.md"
+  ],
+  "byte_identical_archives": 6,
+  "approved_movement_files_unchanged": 33,
+  "runtime_tests_executed": 0,
+  "browser_tests_executed": 0,
+  "engine_tests_executed": 0,
+  "screenshots": 0
+}

@@ -1,0 +1,39 @@
+{
+  "recorded_at": "2026-10-24T17:09:07.455090+09:00",
+  "scope": "Character design decisions only; no gameplay or UI implementation",
+  "approved": {
+    "major_character_xp_curve": "shared_level_threshold_table",
+    "stat_growth": "retain_individual_character_tables",
+    "skill_rank_growth": "automatic_on_table_defined_level_or_event_conditions",
+    "unlearned_skill_visibility": {
+      "before_disclosure_condition": "hidden",
+      "after_disclosure_condition": "locked"
+    },
+    "learned_skill_visibility": "visible",
+    "disclosure_condition_is_not_a_learning_requirement": true
+  },
+  "user_replies": [
+    {
+      "topic": "shared_major_character_xp_curve",
+      "question": "XP 표는 모든 주요 인물이 공통으로 사용할까요?",
+      "reply": "승인"
+    },
+    {
+      "topic": "automatic_skill_rank_growth",
+      "question": "기술별 랭크를 테이블에 정의하고, 지정된 레벨·사건 조건을 달성하면 자동으로 상승하도록 설계할까요?",
+      "reply": "승인"
+    },
+    {
+      "topic": "unlearned_skill_visibility",
+      "question": "기술별 공개 조건을 충족하기 전에는 목록에서 숨기고, 공개 후에는 잠금 상태로 표시할까요?",
+      "reply": "승인"
+    }
+  ],
+  "not_approved_by_this_record": [
+    "Initial HP/SP policy or values",
+    "Exact level1-to100 XP thresholds, stat growth coefficients, ranks or costs",
+    "Post-join chain-evaluation implementation details",
+    "First-join retroactive skill catch-up",
+    "New artwork, HTML/Godot implementation or next system"
+  ]
+}
